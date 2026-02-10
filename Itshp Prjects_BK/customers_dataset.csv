@@ -1,0 +1,1001 @@
+customerId,customer_account,customer_name,date_of_birth,gender,address,phone_number,account_currency,balance,channel
+75304,4.1609E+11,Innocent Gilbert,4/12/2000,Male,Kicukiro,2.50775E+11,RWF,403200.76,"Internet Banking, USSD"
+98538,5.37714E+11,Innocent Campbell,4/3/1960,Male,Nyagatare,2.50763E+11,RWF,3791696.55,USSD
+22507,4.69233E+11,Innocent Ritter,4/5/1980,Male,Nyamasheke,2.50713E+11,RWF,2822529.51,"Internet Banking, USSD, Mobile Banking"
+25173,6.61725E+11,Diane Mitchell,8/10/1948,Female,Musanze,2.5078E+11,RWF,2618378.45,"USSD, Mobile Banking, Internet Banking"
+69267,6.26539E+11,Didier Ponce,4/1/1952,Female,Gicumbi,2.50721E+11,RWF,1036147.38,"USSD, Internet Banking"
+14048,7.93336E+11,Esther Payne,6/12/2006,Female,Kicukiro,2.50733E+11,RWF,3634985.25,"Internet Banking, Mobile Banking, USSD"
+70313,5.79738E+11,Chantal Miller,10/29/1993,Female,Nyarugenge,2.50711E+11,RWF,2334867.64,"Mobile Banking, USSD, Internet Banking"
+95638,6.54907E+11,Fabrice Graham,5/6/1990,Female,Rwamagana,2.5076E+11,RWF,2967785.26,USSD
+46902,3.06394E+11,Diane Nichols,8/7/1958,Female,Nyamasheke,2.50719E+11,RWF,1826529.24,Mobile Banking
+60156,2.08573E+11,Patrick Merritt,9/15/1961,Male,Nyarugenge,2.50795E+11,RWF,1362762.45,Mobile Banking
+37652,7.59805E+11,Innocent Roberts,5/31/1962,Female,Rusizi,2.50744E+11,RWF,4032868.69,"Internet Banking, USSD"
+92653,9.27556E+11,Sandrine Campbell,4/15/1951,Male,Kayonza,2.50719E+11,RWF,2520953.23,"Mobile Banking, Internet Banking, USSD"
+41156,3.72123E+11,Grace Sparks,8/21/1960,Female,Rwamagana,2.50754E+11,RWF,1420830.17,Mobile Banking
+49140,6.02784E+11,Jean Evans,5/30/1974,Female,Huye,2.50761E+11,RWF,4373144.82,"USSD, Mobile Banking"
+15010,3.37082E+11,Marie James,9/18/2007,Female,Musanze,2.50756E+11,RWF,27664.08,Internet Banking
+30331,2.73131E+11,Diane Chaney,5/26/1948,Male,Gatsibo,2.50773E+11,RWF,4040502.69,Internet Banking
+65136,2.50069E+11,Josiane Willis,12/16/1973,Male,Nyamasheke,2.50763E+11,RWF,4898019.03,USSD
+84726,7.34712E+11,Esther Dixon,4/2/1975,Male,Gatsibo,2.50726E+11,RWF,4274017.98,"Mobile Banking, USSD"
+22989,5.24511E+11,Sandrine Olson,1/27/1972,Female,Gicumbi,2.50732E+11,RWF,2216116.79,USSD
+59414,3.60944E+11,Claude Sanchez,8/29/1988,Female,Rulindo,2.50792E+11,RWF,2747062.54,"Mobile Banking, Internet Banking, USSD"
+33630,3.78693E+11,Emmanuel Rivera,4/20/1947,Male,Nyagatare,2.50752E+11,RWF,2564307.77,"USSD, Internet Banking, Mobile Banking"
+53060,6.6842E+11,Marie Bradford,3/4/1955,Male,Rusizi,2.50764E+11,RWF,201960.58,"USSD, Mobile Banking"
+61521,4.67681E+11,Jean Santiago,8/1/1976,Male,Bugesera,2.50788E+11,RWF,4669102.41,"Mobile Banking, USSD"
+57554,3.74267E+11,Emmanuel Ross,9/10/1964,Female,Nyarugenge,2.50796E+11,RWF,2617996.15,"Mobile Banking, Internet Banking, USSD"
+30158,5.70639E+11,Innocent Hernandez,9/25/1962,Female,Rulindo,2.50795E+11,RWF,1163314.37,Mobile Banking
+66476,8.38536E+11,Samuel Kline,11/3/1973,Female,Gatsibo,2.50711E+11,RWF,1519354.86,Mobile Banking
+65767,7.32917E+11,Didier Chan,1/28/1967,Female,Ngoma,2.50729E+11,RWF,1219043.76,"Internet Banking, Mobile Banking"
+51255,1.91384E+11,Emmanuel Williams,6/25/1995,Female,Kayonza,2.50783E+11,RWF,681973.97,"USSD, Mobile Banking, Internet Banking"
+67743,9.98504E+11,Paul Mccarty,4/2/1945,Male,Kicukiro,2.50766E+11,RWF,2560955.29,USSD
+31777,2.05662E+11,Alice Horn,10/18/1983,Female,Kicukiro,2.50775E+11,RWF,3388849.44,"Mobile Banking, USSD, Internet Banking"
+96982,2.32397E+11,Esther Moore,8/21/1969,Male,Rusizi,2.5072E+11,RWF,2829687.06,"Mobile Banking, USSD, Internet Banking"
+34777,3.89984E+11,Innocent Torres,3/21/1993,Female,Kicukiro,2.50727E+11,RWF,3422662.35,"Mobile Banking, USSD"
+90040,4.15465E+11,Beata Hoover,4/9/1960,Male,Kicukiro,2.50755E+11,RWF,524584.76,"USSD, Mobile Banking, Internet Banking"
+51284,5.77433E+11,Beata Barker,8/24/1976,Male,Nyarugenge,2.50772E+11,RWF,4559369.87,Internet Banking
+36184,6.20184E+11,Didier Wilkins,1/9/1989,Female,Ngoma,2.5076E+11,RWF,2738374.87,"USSD, Internet Banking"
+65379,5.5223E+11,Chantal Lee,6/7/1958,Female,Musanze,2.50777E+11,RWF,1145869.18,Internet Banking
+57206,8.87061E+11,Ange Diaz,4/10/1958,Male,Gasabo,2.5074E+11,RWF,4245286.46,"Internet Banking, Mobile Banking"
+65381,9.46324E+11,Marie Gibson,11/26/2002,Female,Nyarugenge,2.50741E+11,RWF,4979894.26,"USSD, Mobile Banking"
+90894,6.48941E+11,Ange Whitehead,12/7/1951,Male,Gicumbi,2.50764E+11,RWF,3473086.64,"Internet Banking, Mobile Banking, USSD"
+19348,5.68399E+11,Patrick Brown,1/11/1960,Female,Nyarugenge,2.50793E+11,RWF,934204.52,"Internet Banking, Mobile Banking"
+67060,8.49941E+11,Jean Graham,5/18/1988,Female,Huye,2.50781E+11,RWF,2228410.45,Internet Banking
+39485,5.04497E+11,Claude Harvey,12/11/1961,Male,Kicukiro,2.50795E+11,RWF,62519.79,USSD
+70554,2.92226E+11,Didier Payne,10/17/1960,Male,Nyamasheke,2.50768E+11,RWF,3224016.8,Mobile Banking
+63734,1.88531E+11,Josiane Baker,3/20/1952,Male,Musanze,2.5077E+11,RWF,484982.39,USSD
+71814,2.89097E+11,Paul Marquez,5/4/1967,Male,Rubavu,2.50721E+11,RWF,3722994.43,"Mobile Banking, Internet Banking"
+39154,8.10369E+11,Marie Wright,7/8/2006,Female,Rubavu,2.50722E+11,RWF,3111147.45,"Mobile Banking, USSD, Internet Banking"
+90300,2.57037E+11,Esther Russell,12/7/2007,Male,Gicumbi,2.50739E+11,RWF,4735688.35,"Mobile Banking, USSD, Internet Banking"
+45563,1.83126E+11,Sandrine Gutierrez,10/9/1972,Female,Rubavu,2.50791E+11,RWF,3238304.84,"Internet Banking, USSD, Mobile Banking"
+75421,1.12476E+11,Beata Mitchell,9/14/1954,Female,Gicumbi,2.50798E+11,RWF,3145622.24,"Internet Banking, USSD, Mobile Banking"
+39586,3.02262E+11,Ange Jackson,9/1/1955,Male,Rulindo,2.50761E+11,RWF,2352249.58,"Internet Banking, Mobile Banking, USSD"
+66095,9.59611E+11,Paul Rice,3/23/1982,Male,Muhanga,2.50761E+11,RWF,1236523.66,"USSD, Mobile Banking"
+11842,8.53523E+11,Diane Taylor,5/26/1958,Female,Bugesera,2.50729E+11,RWF,2595547.74,"Internet Banking, Mobile Banking, USSD"
+33618,2.51483E+11,Claude Day,3/2/1956,Female,Nyagatare,2.50722E+11,RWF,2582692.7,"Internet Banking, USSD"
+57644,2.873E+11,Patrick Gonzalez,4/15/1998,Female,Muhanga,2.50758E+11,RWF,4665891.4,Mobile Banking
+45572,8.70237E+11,Grace Garcia,10/15/1978,Female,Karongi,2.50782E+11,RWF,2680887.56,"Internet Banking, USSD, Mobile Banking"
+99450,3.04317E+11,Eric Shepard,10/17/2000,Male,Gasabo,2.50771E+11,RWF,222891.98,"Mobile Banking, Internet Banking"
+85043,3.54367E+11,Paul Edwards,11/15/1955,Male,Gatsibo,2.50756E+11,RWF,3598435.41,Internet Banking
+65394,5.04826E+11,Alice Rodgers,10/12/2004,Female,Muhanga,2.50757E+11,RWF,2776050.99,"Internet Banking, Mobile Banking"
+86563,4.00827E+11,Emmanuel Swanson,8/11/1958,Male,Karongi,2.50762E+11,RWF,1406914.49,"USSD, Internet Banking"
+77662,7.99283E+11,Josiane Hale,4/1/1963,Male,Gicumbi,2.50797E+11,RWF,339551.83,"USSD, Internet Banking"
+10500,5.65421E+11,Claude Orr,7/30/1982,Female,Kicukiro,2.50726E+11,RWF,2571589.31,"USSD, Internet Banking"
+33752,6.32451E+11,Samuel Cooke,9/16/1948,Male,Muhanga,2.50725E+11,RWF,2748809.54,"USSD, Mobile Banking, Internet Banking"
+96297,5.60197E+11,Beata Goodman,12/13/1946,Male,Karongi,2.50775E+11,RWF,2926356.05,Internet Banking
+94901,5.62115E+11,Esther Rice,4/25/2004,Female,Nyamasheke,2.50757E+11,RWF,2922062.9,"Internet Banking, Mobile Banking, USSD"
+38873,7.86304E+11,Emmanuel Johnson,7/31/1949,Male,Rusizi,2.50769E+11,RWF,725868.09,"Mobile Banking, Internet Banking"
+83800,2.57989E+11,Josiane Wilkins,6/20/1988,Male,Nyagatare,2.50753E+11,RWF,1595172.04,"Mobile Banking, USSD"
+10556,9.47857E+11,Chantal James,2/24/1989,Male,Nyamasheke,2.50715E+11,RWF,692991.39,"USSD, Mobile Banking"
+61339,9.16642E+11,Claude Davis,8/9/1983,Female,Rulindo,2.50722E+11,RWF,2579290.48,"Mobile Banking, USSD, Internet Banking"
+79764,1.60109E+11,Josiane Scott,8/22/1952,Male,Musanze,2.50756E+11,RWF,4038570.58,"USSD, Internet Banking"
+84350,4.41146E+11,Grace Walter,3/29/1966,Male,Gicumbi,2.50769E+11,RWF,3155984.11,"USSD, Mobile Banking, Internet Banking"
+18020,4.90192E+11,Samuel Ramirez,5/25/1948,Female,Gicumbi,2.50784E+11,RWF,3921269.97,Internet Banking
+89591,6.14891E+11,Ange Collins,10/16/1971,Female,Nyamasheke,2.50724E+11,RWF,1809901.54,"Internet Banking, USSD, Mobile Banking"
+66860,6.14031E+11,Paul Hernandez,6/20/1989,Male,Rwamagana,2.50768E+11,RWF,3039486.34,"USSD, Mobile Banking"
+37607,3.43E+11,Fabrice James,2/10/1949,Female,Kicukiro,2.5075E+11,RWF,2874862.06,"Mobile Banking, USSD, Internet Banking"
+76743,8.63831E+11,Samuel Hoffman,9/21/1959,Male,Rusizi,2.50771E+11,RWF,3214017.47,Internet Banking
+16881,8.5788E+11,Jean Preston,10/17/1955,Male,Gasabo,2.50777E+11,RWF,3437300.68,"Mobile Banking, Internet Banking, USSD"
+80200,5.27309E+11,Eric Martin,5/31/1979,Female,Gicumbi,2.50755E+11,RWF,2414139.23,"USSD, Mobile Banking"
+86649,8.70823E+11,Alice Rosario,2/9/1964,Female,Gatsibo,2.50714E+11,RWF,77269.83,"Internet Banking, USSD"
+13365,8.01573E+11,Paul Gray,5/9/1956,Female,Nyarugenge,2.50776E+11,RWF,2819910.41,"Internet Banking, Mobile Banking"
+99752,7.96475E+11,Sandrine Campbell,7/28/1961,Female,Gicumbi,2.50733E+11,RWF,1970923.46,Internet Banking
+55168,4.43647E+11,Didier Harper,5/2/1969,Female,Muhanga,2.50766E+11,RWF,1510019.61,"USSD, Mobile Banking"
+39590,5.54743E+11,Innocent Paul,3/3/2006,Male,Kicukiro,2.50775E+11,RWF,3393400.64,Mobile Banking
+37185,5.34963E+11,Eric Garcia,8/19/1988,Female,Gasabo,2.50773E+11,RWF,297988.83,"USSD, Internet Banking"
+35251,6.66429E+11,Alice Peters,6/13/1997,Female,Ngoma,2.50716E+11,RWF,3186249.27,Internet Banking
+35904,6.67733E+11,Marie Cruz,2/24/1990,Male,Rwamagana,2.50769E+11,RWF,1853433.62,"Mobile Banking, Internet Banking, USSD"
+67811,7.58756E+11,Patrick Dalton,4/1/1973,Male,Muhanga,2.50758E+11,RWF,1812346.18,"USSD, Mobile Banking, Internet Banking"
+48322,6.0483E+11,Beata Sanchez,1/16/1962,Male,Nyarugenge,2.50725E+11,RWF,2556682.58,"Internet Banking, Mobile Banking"
+33036,2.38983E+11,Beata Baker,11/8/1951,Male,Kayonza,2.50774E+11,RWF,1323306.18,USSD
+44943,8.03391E+11,Josiane Jackson,3/23/1990,Male,Gasabo,2.50781E+11,RWF,1642229.75,USSD
+35465,7.24731E+11,Samuel Olson,5/6/2003,Male,Nyarugenge,2.50749E+11,RWF,395283.12,"USSD, Mobile Banking, Internet Banking"
+74580,3.70168E+11,Esther Sanchez,10/20/1959,Male,Muhanga,2.5073E+11,RWF,3143038.12,USSD
+81407,3.06121E+11,Marie Fry,3/3/1947,Male,Huye,2.50725E+11,RWF,1154038.3,"Mobile Banking, USSD, Internet Banking"
+11990,2.13802E+11,Paul Vaughan,8/21/1977,Male,Gasabo,2.50735E+11,RWF,2927949.35,"Internet Banking, USSD, Mobile Banking"
+67373,4.06645E+11,Patrick Price,8/1/1984,Female,Rubavu,2.50714E+11,RWF,1263823.92,"Internet Banking, Mobile Banking, USSD"
+40254,6.40842E+11,Esther Wright,9/18/1973,Female,Rulindo,2.50713E+11,RWF,2312727.89,"Internet Banking, USSD"
+60018,2.86138E+11,Ange Thomas,3/31/1956,Male,Nyarugenge,2.50791E+11,RWF,1385168.4,"USSD, Mobile Banking, Internet Banking"
+54173,6.25917E+11,Alice Perry,7/21/1957,Male,Gasabo,2.50756E+11,RWF,2826759.72,"Internet Banking, USSD"
+34222,8.72552E+11,Diane Mcguire,12/8/1982,Male,Rusizi,2.50715E+11,RWF,942455.86,Mobile Banking
+71510,8.81518E+11,Marie Herring,7/21/1997,Female,Nyarugenge,2.5074E+11,RWF,4971046.34,USSD
+86342,8.33998E+11,Alice Johnson,8/22/1972,Male,Ngoma,2.50752E+11,RWF,4036203.4,"Internet Banking, USSD, Mobile Banking"
+75562,9.93722E+11,Beata Young,12/16/1977,Male,Rulindo,2.50735E+11,RWF,540515.52,"Internet Banking, Mobile Banking"
+65936,4.16223E+11,Beata Daniels,4/24/1996,Female,Nyamasheke,2.50711E+11,RWF,1851332.93,Mobile Banking
+68769,7.05185E+11,Grace Figueroa,2/9/1953,Male,Kayonza,2.50714E+11,RWF,1873663.13,Internet Banking
+25154,1.35951E+11,Sandrine Warren,1/19/1986,Female,Kayonza,2.50799E+11,RWF,4247839.37,"USSD, Mobile Banking"
+40852,1.91223E+11,Ange Schmidt,11/28/1950,Female,Nyamasheke,2.50751E+11,RWF,3891892.65,Internet Banking
+53398,7.59407E+11,Claude Oneill,3/10/1946,Female,Muhanga,2.50714E+11,RWF,2797840.23,Internet Banking
+24970,1.16159E+11,Didier Mendez,4/27/1998,Female,Gasabo,2.50729E+11,RWF,354755.34,"Internet Banking, USSD, Mobile Banking"
+65824,3.59204E+11,Claude Gonzalez,10/12/1971,Male,Muhanga,2.50745E+11,RWF,3520946.51,"Internet Banking, Mobile Banking"
+70234,5.48735E+11,Samuel Scott,3/7/1993,Female,Huye,2.50722E+11,RWF,4163147.58,"Mobile Banking, Internet Banking"
+73058,7.32024E+11,Eric Young,10/6/1947,Female,Rusizi,2.50717E+11,RWF,1344356.27,"Internet Banking, Mobile Banking"
+13966,6.87946E+11,Grace Gross,11/3/1945,Male,Muhanga,2.50794E+11,RWF,1058443.44,USSD
+55942,4.50394E+11,Samuel Fuentes,4/22/1953,Female,Ngoma,2.50764E+11,RWF,2759784.2,"Mobile Banking, USSD, Internet Banking"
+55571,9.21371E+11,Innocent Lee,3/25/1971,Female,Rubavu,2.50784E+11,RWF,2920852.27,"Mobile Banking, Internet Banking"
+79973,3.18952E+11,Innocent Wright,4/8/1991,Male,Ngoma,2.50744E+11,RWF,3764659.53,Internet Banking
+86284,4.04578E+11,Didier Olson,6/18/1950,Female,Huye,2.50775E+11,RWF,4481741.22,"Internet Banking, Mobile Banking, USSD"
+95660,7.08901E+11,Paul West,4/4/1976,Male,Kicukiro,2.50742E+11,RWF,781036.75,"Internet Banking, Mobile Banking, USSD"
+32351,1.51044E+11,Innocent Perry,10/8/1973,Female,Nyarugenge,2.50792E+11,RWF,4815412.75,"USSD, Internet Banking"
+74818,8.00272E+11,Esther Carney,2/4/1992,Female,Rubavu,2.50751E+11,RWF,3571200.57,"USSD, Mobile Banking, Internet Banking"
+45012,7.5842E+11,Innocent Watson,5/24/1978,Female,Ngoma,2.50741E+11,RWF,3150300.51,Internet Banking
+82260,1.69844E+11,Innocent Martinez,11/21/1983,Male,Rulindo,2.50711E+11,RWF,1024454.86,"Mobile Banking, Internet Banking, USSD"
+97548,7.68587E+11,Josiane Smith,11/4/1963,Female,Rwamagana,2.50747E+11,RWF,639139.08,"USSD, Mobile Banking"
+58594,7.47694E+11,Fabrice Smith,11/29/1981,Female,Nyagatare,2.50743E+11,RWF,536194.87,Internet Banking
+33511,1.11777E+11,Grace Stafford,11/20/1971,Male,Kayonza,2.50752E+11,RWF,2924951.55,"USSD, Internet Banking, Mobile Banking"
+79354,7.11685E+11,Sandrine Thompson,8/23/1949,Female,Gicumbi,2.50737E+11,RWF,2290773.55,Internet Banking
+28163,6.24515E+11,Paul Beard,5/12/1996,Male,Bugesera,2.50728E+11,RWF,1645067.02,Mobile Banking
+59047,5.49517E+11,Josiane Burnett,12/9/1999,Male,Kayonza,2.50782E+11,RWF,3729404.46,"Internet Banking, USSD, Mobile Banking"
+64908,2.41401E+11,Sandrine Garrett,2/1/1969,Male,Ngoma,2.50745E+11,RWF,1419160.99,Internet Banking
+67483,7.62136E+11,Fabrice Smith,5/15/1950,Male,Karongi,2.50766E+11,RWF,2918526.87,"Mobile Banking, Internet Banking"
+50186,8.41625E+11,Sandrine Estes,2/9/1962,Female,Huye,2.50765E+11,RWF,2526727.53,Internet Banking
+59317,3.18646E+11,Alice Gonzalez,7/1/1959,Female,Nyagatare,2.50776E+11,RWF,251192.33,"USSD, Internet Banking, Mobile Banking"
+20439,3.66234E+11,Emmanuel Warner,10/26/1974,Female,Gatsibo,2.50721E+11,RWF,3630031.31,USSD
+53960,6.65709E+11,Paul Peters,10/24/1946,Male,Ngoma,2.5073E+11,RWF,866914.06,"Internet Banking, USSD, Mobile Banking"
+83479,7.85041E+11,Paul Rodriguez,10/28/1986,Female,Rulindo,2.50776E+11,RWF,2786993.64,"USSD, Internet Banking"
+77482,5.43198E+11,Jean Allen,10/23/1986,Male,Ngoma,2.50793E+11,RWF,2321638.42,"USSD, Mobile Banking"
+83406,9.723E+11,Samuel Hull,6/18/1998,Female,Ngoma,2.50763E+11,RWF,4074173.27,USSD
+42051,4.3504E+11,Sandrine Doyle,1/21/1958,Female,Rulindo,2.50726E+11,RWF,2407347.75,"Mobile Banking, Internet Banking"
+57855,2.36315E+11,Jean Jackson,5/24/1961,Female,Karongi,2.50732E+11,RWF,3350796.13,"USSD, Mobile Banking"
+57172,7.81729E+11,Diane Lawson,10/22/2002,Male,Rulindo,2.50773E+11,RWF,3731398.43,"USSD, Mobile Banking"
+23151,3.61196E+11,Innocent Reed,2/13/1964,Male,Gatsibo,2.50728E+11,RWF,4153467.52,"Mobile Banking, Internet Banking"
+95989,8.75707E+11,Alice Flores,1/6/1962,Male,Nyamasheke,2.50783E+11,RWF,2938455.97,Mobile Banking
+57305,1.16686E+11,Fabrice Mccoy,11/11/1975,Female,Muhanga,2.50766E+11,RWF,326659.27,"USSD, Internet Banking"
+58100,6.83411E+11,Esther Sanders,9/4/1978,Female,Kicukiro,2.50775E+11,RWF,79328.42,"USSD, Mobile Banking"
+83743,7.23816E+11,Claude Moon,12/13/1971,Male,Nyagatare,2.5077E+11,RWF,2460283.11,Internet Banking
+43034,8.11551E+11,Josiane Branch,8/18/1999,Male,Gatsibo,2.50785E+11,RWF,2756734.91,Internet Banking
+78692,1.71673E+11,Marie Chang,3/30/2000,Female,Gasabo,2.50722E+11,RWF,568659.7,"USSD, Mobile Banking"
+97001,9.39014E+11,Eric Campbell,2/24/1998,Female,Muhanga,2.50791E+11,RWF,1623682.33,USSD
+29084,2.86907E+11,Ange Washington,10/14/1973,Female,Karongi,2.50749E+11,RWF,3051679.92,"Mobile Banking, USSD"
+43136,7.11982E+11,Jean Leon,6/3/1982,Female,Gatsibo,2.50714E+11,RWF,1279131.06,"USSD, Internet Banking, Mobile Banking"
+45258,9.57303E+11,Sandrine Hall,6/25/1993,Female,Nyagatare,2.50779E+11,RWF,2099461.48,"USSD, Internet Banking"
+81974,2.73282E+11,Beata White,1/21/1947,Male,Karongi,2.50769E+11,RWF,1872605.86,"USSD, Mobile Banking, Internet Banking"
+11067,1.25926E+11,Diane Steele,9/16/1958,Female,Kayonza,2.50772E+11,RWF,2194003.29,"Internet Banking, USSD, Mobile Banking"
+34064,1.20465E+11,Paul Knight,4/24/2003,Male,Musanze,2.50713E+11,RWF,741999.52,"Mobile Banking, USSD, Internet Banking"
+44774,2.50935E+11,Didier Hall,4/24/1959,Male,Nyagatare,2.50751E+11,RWF,3588794.21,"Mobile Banking, Internet Banking"
+84967,1.06515E+11,Fabrice Mason,2/12/1954,Female,Nyamasheke,2.50738E+11,RWF,2153625.95,Internet Banking
+39830,2.121E+11,Jean Coleman,10/27/1958,Male,Kicukiro,2.50726E+11,RWF,4481502.92,"Internet Banking, USSD"
+50302,2.30134E+11,Emmanuel Stephens,3/3/1963,Male,Kayonza,2.50726E+11,RWF,2659629.61,"Internet Banking, USSD, Mobile Banking"
+93935,5.10253E+11,Beata Williams,5/24/2007,Female,Muhanga,2.50736E+11,RWF,4883336.94,"USSD, Mobile Banking, Internet Banking"
+37363,8.41334E+11,Claude Choi,8/11/1963,Male,Musanze,2.50728E+11,RWF,510210.82,"USSD, Mobile Banking, Internet Banking"
+42678,8.40926E+11,Esther Charles,11/9/1995,Male,Ngoma,2.508E+11,RWF,254788.89,"USSD, Mobile Banking"
+10522,9.83714E+11,Esther Ward,2/14/1946,Male,Rwamagana,2.50727E+11,RWF,3349271.45,"USSD, Internet Banking"
+77861,7.88782E+11,Didier Jones,11/19/1966,Female,Huye,2.50712E+11,RWF,4379146,"USSD, Mobile Banking"
+28055,7.21994E+11,Claude Martin,1/6/1980,Male,Karongi,2.50792E+11,RWF,4995726.93,Internet Banking
+73648,1.74559E+11,Samuel Mclaughlin,5/24/1954,Male,Gicumbi,2.50773E+11,RWF,2642073.87,"USSD, Mobile Banking"
+30288,8.92079E+11,Jean Best,10/27/1946,Female,Rwamagana,2.5072E+11,RWF,3816632.48,"USSD, Mobile Banking, Internet Banking"
+34594,5.24332E+11,Patrick Vasquez,1/26/1995,Female,Rulindo,2.50775E+11,RWF,3313426.55,"USSD, Internet Banking"
+36916,7.89178E+11,Alice Wolfe,10/14/1951,Female,Rulindo,2.50795E+11,RWF,547230.98,"USSD, Internet Banking"
+31279,7.35917E+11,Beata Henson,8/14/1979,Male,Muhanga,2.50797E+11,RWF,431977.85,"Mobile Banking, USSD"
+67081,4.71426E+11,Josiane Duffy,8/17/1973,Male,Muhanga,2.5074E+11,RWF,3156851.4,USSD
+62948,2.19555E+11,Marie Herrera,2/1/1990,Female,Gasabo,2.50783E+11,RWF,4432663.48,"Internet Banking, Mobile Banking, USSD"
+28031,6.86539E+11,Esther Martin,4/23/2000,Female,Muhanga,2.50746E+11,RWF,2985663.59,"Mobile Banking, USSD"
+48618,3.87667E+11,Alice Jordan,7/6/1984,Female,Nyagatare,2.50779E+11,RWF,1747073.53,"Internet Banking, Mobile Banking, USSD"
+73888,8.40891E+11,Samuel Cervantes,9/9/1984,Female,Rulindo,2.50729E+11,RWF,4780950.97,"USSD, Internet Banking"
+26290,7.04678E+11,Didier Mcdonald,11/21/2003,Male,Nyarugenge,2.50741E+11,RWF,2740554.43,"Internet Banking, USSD, Mobile Banking"
+38866,5.6968E+11,Chantal Johnson,7/24/1996,Male,Huye,2.50727E+11,RWF,648515.34,"Internet Banking, USSD"
+98143,4.27274E+11,Patrick Ibarra,2/27/1978,Female,Gicumbi,2.50757E+11,RWF,1731015.32,USSD
+46482,2.21476E+11,Fabrice Diaz,6/2/1988,Male,Nyagatare,2.50715E+11,RWF,2691415.19,"USSD, Mobile Banking, Internet Banking"
+74314,7.95872E+11,Jean Fernandez,6/24/2003,Female,Musanze,2.50788E+11,RWF,3739726.12,Internet Banking
+79419,4.18793E+11,Samuel Greer,4/6/1996,Female,Muhanga,2.50754E+11,RWF,3641434.71,Internet Banking
+79678,4.8295E+11,Grace Meyer,2/2/1956,Female,Rusizi,2.50793E+11,RWF,752082.81,USSD
+53558,5.257E+11,Ange Lawson,3/20/1984,Female,Gasabo,2.50786E+11,RWF,399812.98,"Internet Banking, USSD, Mobile Banking"
+96943,6.12302E+11,Josiane Combs,11/13/1954,Female,Bugesera,2.50757E+11,RWF,2860392.19,"Internet Banking, Mobile Banking, USSD"
+18937,4.40206E+11,Sandrine Weber,2/23/1978,Female,Rusizi,2.50745E+11,RWF,3024835.61,"Internet Banking, Mobile Banking"
+33475,8.21707E+11,Esther Dennis,3/26/1972,Female,Rwamagana,2.50761E+11,RWF,2839224.28,"Mobile Banking, USSD, Internet Banking"
+30378,4.12602E+11,Jean Warner,12/24/1945,Female,Nyarugenge,2.50769E+11,RWF,1684593.91,"USSD, Internet Banking, Mobile Banking"
+82172,4.11076E+11,Sandrine Porter,5/16/2007,Female,Gasabo,2.50776E+11,RWF,3331951.9,"USSD, Internet Banking"
+73124,9.49572E+11,Samuel Moody,9/21/1977,Female,Musanze,2.50739E+11,RWF,465651.89,"USSD, Mobile Banking"
+82625,7.94434E+11,Patrick Davis,5/16/1953,Female,Rusizi,2.50794E+11,RWF,922940.26,"Internet Banking, USSD, Mobile Banking"
+46512,4.05429E+11,Diane Harris,5/10/1993,Male,Gatsibo,2.5073E+11,RWF,536036.42,"Internet Banking, USSD"
+84894,5.39699E+11,Ange Peterson,2/12/1964,Male,Huye,2.5076E+11,RWF,1779511.28,"USSD, Internet Banking, Mobile Banking"
+95457,8.37535E+11,Samuel Brooks,4/22/1973,Male,Kicukiro,2.5079E+11,RWF,2593276.64,Mobile Banking
+42410,4.40179E+11,Claude Parks,1/18/1987,Female,Gicumbi,2.50771E+11,RWF,3987192.95,Internet Banking
+49156,5.0707E+11,Jean Evans,9/13/1966,Male,Huye,2.50785E+11,RWF,3568945.64,USSD
+95525,3.28109E+11,Emmanuel Edwards,3/25/1956,Female,Kicukiro,2.50715E+11,RWF,1902587.46,"Mobile Banking, USSD, Internet Banking"
+43075,4.3767E+11,Patrick Edwards,10/4/1959,Female,Nyagatare,2.50721E+11,RWF,4451540.67,"Internet Banking, USSD, Mobile Banking"
+59306,4.91584E+11,Eric Garcia,3/30/1965,Male,Nyagatare,2.50746E+11,RWF,4273746.81,"Mobile Banking, Internet Banking, USSD"
+78223,9.65873E+11,Claude Pena,1/14/1986,Male,Muhanga,2.50782E+11,RWF,699834.49,"Internet Banking, Mobile Banking, USSD"
+76385,6.99334E+11,Ange Heath,12/27/1975,Male,Rulindo,2.5072E+11,RWF,2549670.15,"Mobile Banking, USSD"
+46970,9.09481E+11,Emmanuel Rodriguez,4/13/2006,Female,Gicumbi,2.50777E+11,RWF,342620.96,"Mobile Banking, USSD"
+36302,4.08106E+11,Beata Sanders,10/23/2001,Female,Nyarugenge,2.50765E+11,RWF,2271175.33,"USSD, Mobile Banking, Internet Banking"
+76922,3.65093E+11,Chantal Thompson,8/22/1983,Male,Huye,2.508E+11,RWF,1060075.01,USSD
+78025,2.07368E+11,Grace Rowland,1/13/1956,Female,Huye,2.50748E+11,RWF,1622122.37,"Internet Banking, USSD"
+59790,4.80716E+11,Eric Miller,7/5/1991,Female,Kicukiro,2.50719E+11,RWF,1582719.83,USSD
+36794,4.41413E+11,Fabrice Munoz,10/28/1993,Female,Muhanga,2.50779E+11,RWF,947835.69,"Mobile Banking, Internet Banking"
+90818,4.96945E+11,Emmanuel Franklin,3/23/1992,Female,Nyagatare,2.50721E+11,RWF,3647527.22,"USSD, Mobile Banking, Internet Banking"
+89355,5.22069E+11,Eric Carlson,10/4/1994,Female,Huye,2.50787E+11,RWF,2655726.44,"Internet Banking, USSD, Mobile Banking"
+53554,5.56106E+11,Paul Jenkins,6/24/1946,Male,Muhanga,2.50769E+11,RWF,1915869.76,"USSD, Mobile Banking"
+90247,1.48191E+11,Innocent Larson,2/6/1966,Male,Rubavu,2.5072E+11,RWF,2456309.71,Mobile Banking
+17361,8.61499E+11,Paul Weaver,10/7/1991,Male,Rusizi,2.50759E+11,RWF,3944899.45,Mobile Banking
+13640,3.24608E+11,Didier Ramos,3/13/1993,Male,Musanze,2.50796E+11,RWF,1460357.51,"USSD, Mobile Banking, Internet Banking"
+86344,8.61845E+11,Eric Martin,7/30/1951,Female,Musanze,2.50766E+11,RWF,974811.73,"USSD, Internet Banking"
+67821,6.26866E+11,Marie Clark,2/11/1958,Male,Nyagatare,2.50711E+11,RWF,2762278.14,Internet Banking
+70288,4.59414E+11,Beata Hill,10/1/1991,Male,Muhanga,2.50785E+11,RWF,252041.9,"Mobile Banking, Internet Banking"
+64015,8.83753E+11,Paul Herrera,8/12/1988,Female,Kayonza,2.50726E+11,RWF,1391598.06,USSD
+59920,3.45359E+11,Patrick Jones,1/20/1949,Female,Nyagatare,2.50771E+11,RWF,2703399.62,Mobile Banking
+86824,7.08763E+11,Jean Fuller,8/30/1982,Female,Muhanga,2.50751E+11,RWF,4704980.96,"Internet Banking, USSD, Mobile Banking"
+28563,6.06011E+11,Emmanuel Johnson,1/14/1996,Male,Karongi,2.50737E+11,RWF,4391602.14,"USSD, Internet Banking, Mobile Banking"
+44436,6.44643E+11,Esther Fox,5/19/1971,Female,Musanze,2.50762E+11,RWF,2402003.93,"Internet Banking, Mobile Banking"
+10946,9.70951E+11,Patrick Mcgrath,7/9/1948,Female,Kicukiro,2.5078E+11,RWF,866623.96,Mobile Banking
+72857,4.58999E+11,Grace Douglas,10/25/2004,Female,Rulindo,2.50773E+11,RWF,4562473.98,"Internet Banking, USSD, Mobile Banking"
+68667,6.53968E+11,Esther Medina,7/29/2003,Female,Kicukiro,2.50799E+11,RWF,3816220.38,"USSD, Internet Banking, Mobile Banking"
+45225,3.97924E+11,Patrick Patton,7/12/1972,Female,Gatsibo,2.50766E+11,RWF,2636474.85,"USSD, Internet Banking, Mobile Banking"
+84582,5.93865E+11,Chantal Lynn,1/15/1999,Female,Rubavu,2.5077E+11,RWF,2560001.5,"USSD, Mobile Banking, Internet Banking"
+89023,3.09977E+11,Grace Robertson,9/13/1946,Female,Rulindo,2.5077E+11,RWF,819030.13,USSD
+93834,3.06787E+11,Claude Cooper,11/29/2006,Male,Ngoma,2.50772E+11,RWF,1080862.26,"USSD, Internet Banking, Mobile Banking"
+67057,2.96907E+11,Sandrine Campbell,8/8/1993,Male,Rubavu,2.5075E+11,RWF,4660703.24,"Internet Banking, USSD, Mobile Banking"
+52394,2.28695E+11,Claude Haney,10/28/1987,Male,Gasabo,2.50756E+11,RWF,2738254.63,USSD
+22042,9.84776E+11,Eric Murray,11/8/1987,Male,Bugesera,2.50746E+11,RWF,4247015.55,"USSD, Mobile Banking, Internet Banking"
+87600,3.72723E+11,Marie Jenkins,11/21/1968,Male,Ngoma,2.50728E+11,RWF,1799007.32,"Mobile Banking, Internet Banking"
+29184,2.94568E+11,Innocent Deleon,7/6/1981,Female,Muhanga,2.50752E+11,RWF,2152455.71,"Internet Banking, USSD, Mobile Banking"
+97964,7.06559E+11,Emmanuel Smith,8/2/1988,Male,Kicukiro,2.50732E+11,RWF,1006307.19,"Internet Banking, USSD, Mobile Banking"
+32152,4.54631E+11,Patrick Davis,4/8/1975,Female,Ngoma,2.50797E+11,RWF,247997.46,"Internet Banking, USSD, Mobile Banking"
+21069,2.58011E+11,Patrick Davidson,5/22/1971,Male,Bugesera,2.50764E+11,RWF,1249916.46,"Mobile Banking, USSD, Internet Banking"
+63341,2.29811E+11,Claude Solomon,12/29/2006,Male,Huye,2.50777E+11,RWF,1511585.16,"Internet Banking, USSD"
+91021,1.39786E+11,Sandrine Carr,10/21/1945,Male,Gatsibo,2.50762E+11,RWF,2214276.91,Internet Banking
+33149,2.34497E+11,Didier Hogan,6/24/1990,Male,Rulindo,2.50752E+11,RWF,4914402.62,Internet Banking
+34347,8.07261E+11,Patrick Moore,5/1/2000,Male,Gatsibo,2.50795E+11,RWF,4625389.21,Mobile Banking
+36937,5.56434E+11,Ange Moss,6/4/1986,Male,Ngoma,2.50738E+11,RWF,498540.94,Mobile Banking
+33579,4.57527E+11,Emmanuel Johnson,12/20/1954,Male,Kicukiro,2.50725E+11,RWF,1906769.52,"USSD, Internet Banking"
+94659,4.80564E+11,Emmanuel Montgomery,8/8/1998,Female,Nyagatare,2.50773E+11,RWF,3446030.98,Internet Banking
+44101,8.90249E+11,Didier Floyd,9/20/1981,Female,Gatsibo,2.50718E+11,RWF,4693963.2,"Mobile Banking, Internet Banking, USSD"
+33622,4.63399E+11,Innocent George,10/7/1984,Female,Nyamasheke,2.50758E+11,RWF,71182.38,"Mobile Banking, USSD"
+38181,1.85743E+11,Claude Velazquez,11/26/2005,Male,Nyarugenge,2.50751E+11,RWF,3804528.41,"Internet Banking, Mobile Banking"
+47824,2.84864E+11,Innocent Thompson,5/21/2005,Male,Nyarugenge,2.50795E+11,RWF,4290615.86,"USSD, Mobile Banking, Internet Banking"
+47834,1.29493E+11,Emmanuel Scott,12/24/1964,Female,Gasabo,2.5072E+11,RWF,4740418.67,USSD
+94246,7.3205E+11,Alice Herrera,10/5/1984,Male,Gatsibo,2.50775E+11,RWF,3913227.87,Internet Banking
+10394,3.11993E+11,Ange Russell,11/19/1960,Female,Nyarugenge,2.50787E+11,RWF,3085145.29,"Mobile Banking, Internet Banking"
+38362,3.34151E+11,Ange Martinez,2/10/1981,Female,Kicukiro,2.5077E+11,RWF,1080339.62,"Internet Banking, Mobile Banking"
+66489,6.91242E+11,Innocent Rodriguez,6/7/1970,Female,Musanze,2.50733E+11,RWF,1171647.21,USSD
+24628,3.40436E+11,Eric Dawson,3/8/1966,Male,Nyamasheke,2.50778E+11,RWF,3436041.73,"Mobile Banking, Internet Banking, USSD"
+55899,5.69232E+11,Eric Phillips,11/19/1986,Male,Karongi,2.50783E+11,RWF,3998796.27,"Internet Banking, Mobile Banking, USSD"
+83276,7.09637E+11,Claude Hernandez,6/14/1966,Male,Nyarugenge,2.50729E+11,RWF,251896.24,"Mobile Banking, Internet Banking"
+41129,3.94888E+11,Eric Murray,12/29/1948,Female,Rusizi,2.50747E+11,RWF,2622219.85,"USSD, Mobile Banking"
+33391,3.65335E+11,Samuel Baxter,12/16/1976,Male,Gasabo,2.50718E+11,RWF,4916962.86,"USSD, Internet Banking"
+61264,6.82913E+11,Jean Hoffman,4/28/1962,Female,Gasabo,2.50797E+11,RWF,4804147.83,USSD
+42038,8.85488E+11,Sandrine Matthews,6/29/1968,Female,Kicukiro,2.50731E+11,RWF,1832461.58,"Internet Banking, USSD"
+44778,5.43758E+11,Josiane Ramsey,2/14/1980,Female,Musanze,2.5073E+11,RWF,3399287.87,Internet Banking
+30203,9.09217E+11,Sandrine Mcdaniel,5/23/1970,Female,Nyarugenge,2.50783E+11,RWF,4383539.62,Mobile Banking
+71236,9.51834E+11,Sandrine Cooke,6/26/1984,Male,Rusizi,2.50745E+11,RWF,3311053.28,"USSD, Mobile Banking"
+16389,2.84128E+11,Alice Brady,5/17/1989,Female,Nyamasheke,2.50748E+11,RWF,1523867.67,"Internet Banking, USSD"
+39670,8.23717E+11,Chantal Wilson,9/21/1946,Male,Ngoma,2.50797E+11,RWF,2137240.96,"Mobile Banking, USSD, Internet Banking"
+56334,4.5409E+11,Sandrine Byrd,10/7/1963,Female,Rwamagana,2.50745E+11,RWF,1086742.65,USSD
+59607,2.85153E+11,Fabrice Haynes,4/1/1969,Male,Karongi,2.50749E+11,RWF,3260361.89,"Mobile Banking, Internet Banking, USSD"
+66861,9.03884E+11,Emmanuel Tate,1/4/1953,Female,Rulindo,2.50717E+11,RWF,3398073.04,Mobile Banking
+51544,2.37793E+11,Fabrice Rodriguez,1/25/1952,Female,Gicumbi,2.50779E+11,RWF,454404.3,Internet Banking
+24403,7.28157E+11,Fabrice Leblanc,3/16/1977,Male,Karongi,2.50783E+11,RWF,324264.27,Mobile Banking
+95317,7.91697E+11,Samuel Adams,8/23/1963,Male,Kicukiro,2.50797E+11,RWF,3778210.1,"USSD, Mobile Banking, Internet Banking"
+66717,4.53311E+11,Beata Bass,4/8/2006,Male,Huye,2.50791E+11,RWF,2197467.25,Mobile Banking
+41694,6.57049E+11,Grace Greene,7/10/1946,Male,Rulindo,2.50722E+11,RWF,3970439.23,"USSD, Internet Banking, Mobile Banking"
+10531,6.60995E+11,Samuel Foster,4/16/1957,Female,Gicumbi,2.50712E+11,RWF,4348137.88,"Internet Banking, Mobile Banking, USSD"
+39363,8.02782E+11,Beata Cisneros,2/28/1953,Male,Gicumbi,2.50739E+11,RWF,4182201.47,"Mobile Banking, USSD"
+15439,9.2096E+11,Esther Perry,11/29/1997,Male,Nyarugenge,2.50735E+11,RWF,1381650.89,"USSD, Internet Banking, Mobile Banking"
+74758,9.60646E+11,Claude Ramirez,5/13/1951,Male,Ngoma,2.50756E+11,RWF,3930827.91,Mobile Banking
+40202,9.98877E+11,Beata Powell,10/10/1949,Female,Huye,2.50735E+11,RWF,677823.68,Mobile Banking
+83873,7.03783E+11,Esther Robertson,12/16/1980,Male,Gatsibo,2.50733E+11,RWF,3605833.9,"Internet Banking, Mobile Banking, USSD"
+26103,1.27964E+11,Josiane Newton,11/4/1961,Female,Muhanga,2.50711E+11,RWF,519417.14,"USSD, Internet Banking"
+52797,5.72412E+11,Fabrice Acosta,12/2/1957,Female,Gasabo,2.5077E+11,RWF,578745.98,USSD
+17059,8.247E+11,Beata Brown,5/29/1984,Female,Rwamagana,2.5078E+11,RWF,4481225.96,"USSD, Mobile Banking, Internet Banking"
+47459,2.79199E+11,Emmanuel Browning,9/5/1975,Female,Bugesera,2.50756E+11,RWF,817263.62,USSD
+33187,5.1353E+11,Sandrine Reed,7/15/1990,Male,Rubavu,2.50753E+11,RWF,955145.07,Internet Banking
+16685,6.76319E+11,Claude Williams,5/16/1961,Female,Rubavu,2.50726E+11,RWF,2548552.65,USSD
+27412,1.94446E+11,Eric Hall,11/5/2006,Male,Nyarugenge,2.50734E+11,RWF,4343875.1,USSD
+80666,4.57974E+11,Innocent Miller,2/6/1960,Male,Bugesera,2.50793E+11,RWF,609417.87,USSD
+65715,6.47253E+11,Esther Dawson,10/31/1980,Female,Nyamasheke,2.50711E+11,RWF,4593345.27,"Internet Banking, Mobile Banking, USSD"
+91813,1.05594E+11,Eric Nielsen,12/17/1967,Female,Rwamagana,2.50774E+11,RWF,222778.6,"USSD, Internet Banking, Mobile Banking"
+93321,6.25875E+11,Fabrice Castillo,2/1/1952,Female,Gatsibo,2.50747E+11,RWF,611484.42,Internet Banking
+35494,7.71158E+11,Josiane Bell,7/15/1979,Female,Ngoma,2.50781E+11,RWF,3828830.75,"Mobile Banking, Internet Banking"
+10111,1.74732E+11,Eric Salas,6/22/1945,Male,Nyarugenge,2.50775E+11,RWF,4958876.34,"Internet Banking, Mobile Banking"
+65822,7.517E+11,Paul Ross,12/7/1947,Female,Kayonza,2.50776E+11,RWF,4495942.98,"USSD, Internet Banking"
+69499,5.89487E+11,Paul Garrett,11/7/1946,Female,Musanze,2.50733E+11,RWF,3019665.06,"USSD, Mobile Banking, Internet Banking"
+86406,1.31881E+11,Grace Barnes,3/29/1974,Male,Nyamasheke,2.50729E+11,RWF,4667436.91,Internet Banking
+10463,6.63509E+11,Alice Edwards,1/5/1946,Male,Muhanga,2.50786E+11,RWF,2413353.84,Mobile Banking
+73756,4.05222E+11,Sandrine Stafford,2/10/1984,Female,Gatsibo,2.50755E+11,RWF,3550821.83,"Mobile Banking, Internet Banking"
+24727,6.5205E+11,Diane Grant,7/24/2006,Female,Huye,2.5075E+11,RWF,1957453.92,USSD
+97965,6.16399E+11,Josiane Harrell,1/23/2001,Female,Nyamasheke,2.50744E+11,RWF,2063145.04,USSD
+58697,1.55209E+11,Emmanuel Lucero,9/27/1959,Male,Rwamagana,2.50796E+11,RWF,2737785.29,Mobile Banking
+51750,1.5584E+11,Innocent Gibson,4/8/1990,Male,Rubavu,2.50743E+11,RWF,1522043.95,"Mobile Banking, Internet Banking"
+80581,4.41136E+11,Eric Morgan,11/10/1973,Male,Rulindo,2.5072E+11,RWF,2680997.09,Mobile Banking
+83431,8.66086E+11,Didier Fernandez,8/12/1986,Female,Gatsibo,2.50712E+11,RWF,2586457.3,USSD
+17643,6.75183E+11,Alice Collier,11/14/1979,Female,Musanze,2.50765E+11,RWF,4177053.95,Internet Banking
+42251,8.80271E+11,Samuel Smith,6/22/1981,Male,Karongi,2.50717E+11,RWF,1792890.08,Mobile Banking
+74199,9.89101E+11,Beata Miller,7/1/1987,Female,Gasabo,2.50715E+11,RWF,2884340.17,"Mobile Banking, USSD"
+48119,9.36587E+11,Didier Freeman,1/25/1985,Male,Gatsibo,2.50762E+11,RWF,2316866.85,"Mobile Banking, Internet Banking, USSD"
+47944,3.98621E+11,Grace Foster,8/28/1976,Male,Nyarugenge,2.50748E+11,RWF,1715370.94,"Internet Banking, USSD, Mobile Banking"
+45534,8.4663E+11,Diane Gonzalez,4/11/1945,Female,Musanze,2.5076E+11,RWF,1013194.96,"USSD, Mobile Banking"
+57873,3.58892E+11,Marie Davis,9/17/2006,Female,Rulindo,2.50793E+11,RWF,593897.64,"Internet Banking, Mobile Banking, USSD"
+58439,7.16381E+11,Samuel Chapman,3/19/1983,Male,Rubavu,2.50721E+11,RWF,4025047.51,"USSD, Mobile Banking, Internet Banking"
+74221,2.07436E+11,Grace Chavez,12/28/1949,Female,Gicumbi,2.50723E+11,RWF,3306913.25,USSD
+34040,8.74926E+11,Jean Reid,5/29/1948,Female,Rubavu,2.50758E+11,RWF,4909878.91,"Mobile Banking, Internet Banking, USSD"
+97919,8.60191E+11,Esther Johnson,6/26/1985,Male,Rusizi,2.50767E+11,RWF,4952423.21,"USSD, Mobile Banking, Internet Banking"
+79222,9.69084E+11,Diane Herrera,8/11/1965,Female,Nyarugenge,2.50713E+11,RWF,4761804.78,Mobile Banking
+54462,5.4633E+11,Didier Stephens,11/9/1961,Female,Rubavu,2.50735E+11,RWF,1707501.98,Internet Banking
+98104,7.45604E+11,Fabrice Reed,12/11/1992,Male,Musanze,2.50745E+11,RWF,1123657.77,Internet Banking
+78440,8.092E+11,Emmanuel Fox,2/18/2000,Male,Rusizi,2.50787E+11,RWF,890976.17,"Internet Banking, USSD, Mobile Banking"
+57523,3.95942E+11,Eric Downs,1/31/1987,Male,Huye,2.5075E+11,RWF,594332.99,"USSD, Mobile Banking"
+85196,2.11614E+11,Chantal Crane,3/30/1998,Female,Ngoma,2.50784E+11,RWF,2566492.58,"USSD, Mobile Banking"
+61389,6.25645E+11,Claude Robles,1/30/1973,Male,Gicumbi,2.5079E+11,RWF,89700.6,"Mobile Banking, Internet Banking, USSD"
+93481,2.90514E+11,Eric Benson,8/6/1965,Female,Kayonza,2.50779E+11,RWF,1235844.55,Mobile Banking
+15007,4.47473E+11,Patrick Cardenas,3/19/1970,Female,Ngoma,2.50721E+11,RWF,1419688.14,Mobile Banking
+97692,1.20867E+11,Emmanuel Rogers,1/18/1956,Male,Gatsibo,2.50747E+11,RWF,2059236.92,Mobile Banking
+96605,2.29183E+11,Esther Brown,7/22/1973,Female,Musanze,2.50763E+11,RWF,559423.09,"Internet Banking, USSD"
+42191,3.36444E+11,Paul Ball,6/21/1999,Male,Bugesera,2.50793E+11,RWF,666176.78,Internet Banking
+88246,2.44278E+11,Eric Young,1/6/1964,Female,Nyagatare,2.50745E+11,RWF,1064834.93,"Internet Banking, USSD, Mobile Banking"
+75255,9.62832E+11,Alice Diaz,10/22/1999,Male,Rwamagana,2.50792E+11,RWF,548869.43,"Internet Banking, Mobile Banking"
+64587,9.5852E+11,Jean Mcgee,9/19/1999,Male,Bugesera,2.50759E+11,RWF,2955994.34,Internet Banking
+75103,2.55545E+11,Marie Walker,7/2/2007,Female,Musanze,2.50787E+11,RWF,2955866.84,"Mobile Banking, USSD, Internet Banking"
+44427,3.32959E+11,Josiane Villanueva,7/7/1968,Male,Kayonza,2.50782E+11,RWF,3872824.17,"Mobile Banking, Internet Banking, USSD"
+59869,7.01898E+11,Josiane Jordan,3/18/2006,Male,Musanze,2.50781E+11,RWF,2897855.75,"USSD, Internet Banking"
+81599,7.52648E+11,Sandrine Fleming,9/21/1960,Male,Rwamagana,2.50723E+11,RWF,2164642.55,"Internet Banking, USSD, Mobile Banking"
+50006,4.07527E+11,Beata Snyder,5/8/2004,Female,Nyagatare,2.50733E+11,RWF,520098.5,"Internet Banking, USSD"
+37378,8.94922E+11,Sandrine Lindsey,5/5/2003,Female,Ngoma,2.50794E+11,RWF,875855.89,"USSD, Internet Banking, Mobile Banking"
+93145,2.87121E+11,Esther Hoffman,10/17/1949,Male,Kayonza,2.50727E+11,RWF,3590932.57,USSD
+34274,7.92953E+11,Samuel Jackson,5/9/1984,Female,Rusizi,2.50761E+11,RWF,1870665.97,"Mobile Banking, USSD"
+69544,4.21612E+11,Ange Washington,11/27/1984,Female,Nyarugenge,2.50714E+11,RWF,2411357.21,"Mobile Banking, Internet Banking"
+50226,6.97412E+11,Emmanuel Martinez,8/29/1957,Male,Rulindo,2.50716E+11,RWF,907143.64,"USSD, Internet Banking"
+87209,4.30791E+11,Samuel Davidson,12/13/1999,Male,Muhanga,2.50769E+11,RWF,1176312.19,"Internet Banking, Mobile Banking"
+36062,8.03031E+11,Marie Barr,2/25/1993,Female,Musanze,2.50766E+11,RWF,4675545.85,Mobile Banking
+49807,2.01139E+11,Fabrice Thomas,11/19/2000,Male,Musanze,2.50757E+11,RWF,2920328.8,"USSD, Mobile Banking"
+14287,9.57567E+11,Paul Davis,12/12/1957,Male,Gasabo,2.50772E+11,RWF,4982746.73,"USSD, Mobile Banking"
+50861,6.27267E+11,Beata Reilly,8/10/1984,Female,Nyamasheke,2.5072E+11,RWF,3020895.94,USSD
+20919,7.74927E+11,Chantal Blevins,8/13/1970,Male,Rulindo,2.50785E+11,RWF,807894.64,"Mobile Banking, USSD"
+88455,8.30546E+11,Josiane Farrell,4/20/1975,Male,Rwamagana,2.50772E+11,RWF,2297861.41,USSD
+70280,2.49535E+11,Grace Johnson,7/27/1985,Female,Nyarugenge,2.50742E+11,RWF,1120141,USSD
+12945,3.46115E+11,Sandrine Bailey,5/3/2002,Female,Rusizi,2.50795E+11,RWF,2166748.57,"USSD, Mobile Banking"
+43667,6.73532E+11,Patrick White,12/21/1994,Male,Rwamagana,2.50751E+11,RWF,3692592.73,"Mobile Banking, Internet Banking, USSD"
+68556,3.1539E+11,Emmanuel Rodriguez,5/14/1991,Male,Gicumbi,2.50772E+11,RWF,3894136.08,USSD
+15995,4.18613E+11,Jean Rice,3/13/1973,Female,Rubavu,2.50721E+11,RWF,3325896.8,USSD
+40376,1.38556E+11,Sandrine Nelson,7/28/1974,Male,Gatsibo,2.50746E+11,RWF,519899.32,"Mobile Banking, Internet Banking, USSD"
+45031,6.81392E+11,Fabrice Mckenzie,3/31/1965,Female,Musanze,2.50751E+11,RWF,2932468.23,"USSD, Internet Banking"
+23471,8.35178E+11,Claude Hill,5/30/1955,Male,Gasabo,2.5077E+11,RWF,245355.42,"Internet Banking, USSD, Mobile Banking"
+92000,5.20543E+11,Jean Boone,3/20/1954,Male,Huye,2.50732E+11,RWF,731744.51,"Internet Banking, Mobile Banking, USSD"
+69647,2.80801E+11,Paul Powell,4/27/1969,Male,Ngoma,2.50781E+11,RWF,646717.76,"USSD, Mobile Banking, Internet Banking"
+42837,2.89802E+11,Grace Vaughn,4/10/1994,Male,Huye,2.50776E+11,RWF,1605469.13,"Mobile Banking, USSD"
+44151,5.72005E+11,Eric Hardin,8/10/1959,Female,Rwamagana,2.50791E+11,RWF,1207367.45,"USSD, Internet Banking"
+88420,5.04858E+11,Eric Price,5/31/1980,Male,Gasabo,2.50795E+11,RWF,1491528.32,Internet Banking
+87414,7.38221E+11,Esther Davis,8/25/1962,Female,Rusizi,2.50761E+11,RWF,4052972.17,"USSD, Internet Banking, Mobile Banking"
+10342,3.86067E+11,Diane Meyer,3/19/1966,Female,Kayonza,2.50738E+11,RWF,2014580.62,Internet Banking
+19199,3.12743E+11,Diane Morris,1/16/1996,Female,Kicukiro,2.50779E+11,RWF,140512.82,"Internet Banking, USSD, Mobile Banking"
+43287,8.37771E+11,Didier Rodriguez,11/27/1945,Female,Rulindo,2.50715E+11,RWF,3242378.17,"Mobile Banking, USSD, Internet Banking"
+47267,9.92878E+11,Beata Weaver,6/10/1981,Male,Rwamagana,2.50785E+11,RWF,1721189.69,"Internet Banking, USSD, Mobile Banking"
+28137,4.44824E+11,Paul Hunter,3/11/1995,Female,Rusizi,2.50719E+11,RWF,1389509,"Mobile Banking, USSD"
+99497,9.37638E+11,Beata Weaver,2/26/1970,Female,Ngoma,2.50772E+11,RWF,2699186.46,Mobile Banking
+45502,6.59742E+11,Chantal Richardson,6/2/2007,Female,Muhanga,2.5076E+11,RWF,4815305.87,"Mobile Banking, Internet Banking, USSD"
+21178,1.23749E+11,Emmanuel Phillips,3/24/1949,Male,Huye,2.50716E+11,RWF,2914558.52,"Mobile Banking, USSD"
+85928,7.5328E+11,Didier Jackson,11/8/1978,Male,Karongi,2.50732E+11,RWF,909714.03,Mobile Banking
+22605,4.70076E+11,Eric Ayala,8/5/1966,Male,Rusizi,2.50783E+11,RWF,3208982.52,"USSD, Internet Banking, Mobile Banking"
+21971,2.7825E+11,Josiane Howard,2/1/1985,Female,Kayonza,2.50736E+11,RWF,178793.87,"USSD, Internet Banking"
+61559,9.60654E+11,Paul Brewer,12/26/1948,Female,Musanze,2.5076E+11,RWF,1858155.59,USSD
+79149,2.08534E+11,Samuel Martin,8/22/1992,Female,Rubavu,2.50773E+11,RWF,2303522.89,"USSD, Mobile Banking"
+30054,2.89095E+11,Ange Hall,3/12/2007,Male,Muhanga,2.50737E+11,RWF,4829456.01,Internet Banking
+34785,9.9392E+11,Fabrice King,5/25/1972,Female,Gicumbi,2.50735E+11,RWF,2646606.65,Internet Banking
+55577,1.13966E+11,Eric Thomas,3/28/2006,Female,Nyarugenge,2.50782E+11,RWF,2158332.64,"USSD, Internet Banking"
+55808,6.15657E+11,Patrick Roy,8/2/1983,Male,Gasabo,2.5077E+11,RWF,4953587.27,"Internet Banking, Mobile Banking"
+41942,2.15367E+11,Innocent Austin,10/17/2000,Male,Musanze,2.50798E+11,RWF,2698346.72,USSD
+16045,4.42812E+11,Esther Gomez,4/5/1970,Female,Kicukiro,2.50767E+11,RWF,1617210.91,"USSD, Mobile Banking, Internet Banking"
+19335,5.42016E+11,Diane Rodriguez,4/9/1996,Male,Rulindo,2.50737E+11,RWF,3113349.01,"USSD, Mobile Banking"
+85435,6.06784E+11,Beata Schultz,2/18/1966,Female,Huye,2.50763E+11,RWF,3452359.33,"USSD, Internet Banking, Mobile Banking"
+61375,8.38114E+11,Ange Ward,7/20/1950,Male,Ngoma,2.50717E+11,RWF,1096160.34,"USSD, Internet Banking, Mobile Banking"
+69343,7.23769E+11,Innocent Garcia,12/21/1951,Male,Rulindo,2.50727E+11,RWF,2780665.33,USSD
+99847,1.87498E+11,Fabrice Snyder,8/30/1983,Male,Rulindo,2.50789E+11,RWF,242772.95,"Mobile Banking, USSD, Internet Banking"
+75308,8.74866E+11,Didier Mccoy,6/25/1984,Male,Rusizi,2.50728E+11,RWF,3576564.86,"Internet Banking, USSD"
+15054,7.95425E+11,Didier Brandt,3/2/2007,Female,Gasabo,2.50788E+11,RWF,4691542.96,Internet Banking
+49780,8.6293E+11,Alice Skinner,10/8/1977,Male,Huye,2.50756E+11,RWF,796134.62,"Internet Banking, USSD, Mobile Banking"
+43857,6.12824E+11,Claude Adams,3/26/1994,Male,Rulindo,2.50793E+11,RWF,3705072.54,"Internet Banking, USSD"
+98193,9.7172E+11,Marie Huang,1/27/2005,Male,Kayonza,2.50781E+11,RWF,72234.46,Internet Banking
+31321,8.51197E+11,Patrick Hansen,2/18/1998,Male,Huye,2.508E+11,RWF,1327096.02,Internet Banking
+44328,4.0541E+11,Josiane Lowe,7/6/1954,Female,Rwamagana,2.50712E+11,RWF,3738171.81,"Mobile Banking, Internet Banking"
+87897,9.69822E+11,Didier Morris,4/17/1970,Female,Rulindo,2.50761E+11,RWF,4762129.2,"Internet Banking, Mobile Banking, USSD"
+94661,8.73688E+11,Alice Young,9/2/1990,Male,Huye,2.50777E+11,RWF,3574511.52,Internet Banking
+64102,1.45944E+11,Josiane Newton,1/26/1947,Male,Rubavu,2.50776E+11,RWF,4092629.06,"Mobile Banking, Internet Banking"
+49225,3.32573E+11,Innocent Medina,1/26/1981,Male,Muhanga,2.50784E+11,RWF,1254200.02,"Mobile Banking, USSD"
+23573,7.59766E+11,Claude Thomas,6/26/1973,Male,Nyamasheke,2.50713E+11,RWF,3422187.39,Mobile Banking
+81887,4.42836E+11,Fabrice Mcdonald,1/20/2005,Male,Nyagatare,2.50711E+11,RWF,1315973.67,"USSD, Mobile Banking, Internet Banking"
+68319,7.08962E+11,Josiane Chung,3/18/1965,Male,Bugesera,2.50737E+11,RWF,2908817.47,"Internet Banking, USSD"
+38183,4.27338E+11,Fabrice Roach,8/22/1976,Male,Huye,2.50721E+11,RWF,4398364.49,"Internet Banking, USSD, Mobile Banking"
+23109,6.87303E+11,Emmanuel Williams,2/14/1957,Male,Rulindo,2.50715E+11,RWF,395635,"Mobile Banking, USSD, Internet Banking"
+27320,9.2868E+11,Sandrine Rhodes,9/15/1949,Female,Gicumbi,2.50769E+11,RWF,2619658.39,"USSD, Mobile Banking, Internet Banking"
+38364,4.91355E+11,Chantal White,9/19/1970,Male,Gatsibo,2.5074E+11,RWF,4784539.02,"USSD, Internet Banking, Mobile Banking"
+86109,6.78408E+11,Beata Wyatt,10/9/1962,Female,Ngoma,2.50771E+11,RWF,1650721.29,Mobile Banking
+61336,7.26719E+11,Didier Clark,12/18/1991,Female,Huye,2.50712E+11,RWF,4020355.44,Internet Banking
+33020,2.26141E+11,Alice Burns,3/26/1947,Male,Rubavu,2.5072E+11,RWF,526335.59,Internet Banking
+78204,9.45829E+11,Beata Scott,6/21/1965,Female,Nyamasheke,2.50773E+11,RWF,61870.36,"USSD, Mobile Banking, Internet Banking"
+69772,2.46217E+11,Esther King,7/13/1957,Male,Ngoma,2.50798E+11,RWF,3436048.97,Mobile Banking
+99980,9.41042E+11,Innocent Wall,4/30/1987,Male,Rulindo,2.50723E+11,RWF,3446147.67,Mobile Banking
+99235,5.45758E+11,Alice Hart,6/21/1969,Female,Bugesera,2.50767E+11,RWF,3808555.46,Mobile Banking
+26464,3.02657E+11,Ange Smith,8/10/1990,Female,Muhanga,2.50752E+11,RWF,1438503.59,Mobile Banking
+20167,8.94014E+11,Grace Clark,6/11/1969,Male,Ngoma,2.50735E+11,RWF,794004.28,"Mobile Banking, USSD"
+19019,5.85077E+11,Claude Burns,6/16/1997,Female,Huye,2.50729E+11,RWF,4398534.02,USSD
+73979,6.78354E+11,Fabrice King,3/10/1996,Female,Muhanga,2.5079E+11,RWF,703260.96,Internet Banking
+99078,7.03117E+11,Alice Wheeler,6/27/1957,Female,Nyarugenge,2.5073E+11,RWF,566583.99,"Mobile Banking, Internet Banking"
+17831,5.75363E+11,Alice Hernandez,2/19/1991,Male,Rwamagana,2.50718E+11,RWF,4499955.42,"USSD, Mobile Banking"
+99855,7.34159E+11,Diane Shields,2/26/1955,Female,Kayonza,2.50734E+11,RWF,4606790.18,"USSD, Mobile Banking, Internet Banking"
+35125,5.68163E+11,Diane Garcia,8/31/1975,Female,Musanze,2.50729E+11,RWF,3514598.56,"USSD, Internet Banking, Mobile Banking"
+79862,2.90639E+11,Innocent Oneill,8/3/1994,Female,Gicumbi,2.50736E+11,RWF,4435978.32,"Internet Banking, USSD"
+21377,1.37134E+11,Claude Sanders,3/28/1977,Female,Rulindo,2.50778E+11,RWF,320632.41,"Internet Banking, Mobile Banking, USSD"
+93405,8.06364E+11,Alice Massey,10/2/1998,Male,Nyamasheke,2.50723E+11,RWF,4342895.07,Internet Banking
+61052,4.90997E+11,Chantal Pearson,8/22/1995,Male,Rulindo,2.50778E+11,RWF,4838127.55,"Mobile Banking, USSD"
+39213,7.18697E+11,Patrick Webb,2/6/1949,Female,Rulindo,2.50795E+11,RWF,1399422.61,USSD
+87253,2.08967E+11,Patrick Ruiz,2/8/1993,Female,Rusizi,2.5075E+11,RWF,1475199.44,"USSD, Internet Banking, Mobile Banking"
+42049,6.03323E+11,Josiane Cook,7/18/1951,Female,Gicumbi,2.5078E+11,RWF,4787463.04,"Internet Banking, USSD"
+26131,1.95092E+11,Josiane Wilson,9/1/2001,Male,Nyagatare,2.5071E+11,RWF,2986517.63,"USSD, Mobile Banking"
+81486,9.56772E+11,Alice Nichols,1/11/1973,Female,Nyamasheke,2.50778E+11,RWF,3280255.39,"Mobile Banking, USSD"
+18926,7.76089E+11,Diane Lambert,9/13/1965,Male,Nyamasheke,2.50774E+11,RWF,803049.4,"Internet Banking, Mobile Banking, USSD"
+84338,5.28757E+11,Patrick Pham,5/6/1945,Male,Kayonza,2.50766E+11,RWF,2308319.08,USSD
+11904,3.75609E+11,Eric Gonzalez,3/12/1951,Female,Karongi,2.5072E+11,RWF,4101566.62,"USSD, Internet Banking, Mobile Banking"
+41619,8.81617E+11,Didier Williams,5/19/1966,Female,Gicumbi,2.50756E+11,RWF,389355.14,Mobile Banking
+89608,8.99553E+11,Marie Smith,2/26/1987,Male,Rubavu,2.50746E+11,RWF,412323.45,USSD
+83701,6.47832E+11,Jean Marshall,8/22/1968,Male,Huye,2.50719E+11,RWF,572426.04,"USSD, Internet Banking"
+96161,5.8642E+11,Innocent Anderson,2/28/1968,Male,Rulindo,2.50729E+11,RWF,2206888.53,"Internet Banking, USSD"
+47320,7.05175E+11,Innocent Sanchez,8/13/1980,Female,Gatsibo,2.5074E+11,RWF,3997424.57,"Internet Banking, Mobile Banking"
+22380,6.35596E+11,Fabrice Alvarado,10/23/1955,Male,Karongi,2.50762E+11,RWF,4281910.37,"Internet Banking, USSD"
+32395,5.41819E+11,Chantal Yang,1/20/1959,Female,Rusizi,2.50762E+11,RWF,3304861.53,"Internet Banking, USSD, Mobile Banking"
+51936,9.41929E+11,Samuel Cooper,8/3/1957,Female,Nyagatare,2.50782E+11,RWF,1388237.79,"USSD, Mobile Banking, Internet Banking"
+99383,9.13627E+11,Beata Soto,7/16/1974,Female,Nyamasheke,2.50767E+11,RWF,2714403.6,"USSD, Internet Banking"
+47792,3.81091E+11,Beata Richmond,10/12/2001,Female,Karongi,2.50731E+11,RWF,998434.6,USSD
+78013,7.14751E+11,Esther Edwards,5/29/1976,Male,Huye,2.50738E+11,RWF,4500187.73,"Internet Banking, USSD"
+98512,9.94908E+11,Eric Mathews,4/1/1972,Female,Rwamagana,2.50719E+11,RWF,4808863.79,Internet Banking
+59125,5.37978E+11,Ange Andersen,12/24/1973,Female,Nyamasheke,2.5071E+11,RWF,4379962.83,"Mobile Banking, Internet Banking"
+22530,3.66119E+11,Eric Lamb,9/25/1963,Female,Nyagatare,2.50757E+11,RWF,2210622.07,"USSD, Internet Banking"
+63786,1.48941E+11,Eric Hoover,10/26/1949,Female,Kayonza,2.508E+11,RWF,864742.57,"Internet Banking, USSD"
+45992,1.21705E+11,Paul Maxwell,12/23/1989,Male,Kayonza,2.50714E+11,RWF,2570439.45,USSD
+53238,8.46362E+11,Grace Richmond,7/24/1986,Female,Bugesera,2.50738E+11,RWF,3090870.17,"USSD, Mobile Banking"
+13654,1.32525E+11,Fabrice Rivera,3/3/2004,Male,Huye,2.50729E+11,RWF,891467.12,"Internet Banking, USSD"
+15136,1.25098E+11,Josiane Hines,1/5/2004,Female,Nyamasheke,2.50737E+11,RWF,4209890.31,"Internet Banking, USSD, Mobile Banking"
+40072,5.6405E+11,Claude Meadows,3/1/1986,Male,Rusizi,2.5075E+11,RWF,115650.42,"Mobile Banking, Internet Banking"
+17891,7.23899E+11,Innocent Johnson,3/20/2001,Female,Muhanga,2.50727E+11,RWF,2839086.18,"Mobile Banking, USSD"
+50552,3.43844E+11,Josiane Manning,1/10/1949,Female,Gicumbi,2.50737E+11,RWF,2845231.87,"Mobile Banking, USSD"
+63925,8.28225E+11,Sandrine Thompson,8/7/1953,Male,Musanze,2.50755E+11,RWF,4083800.28,USSD
+43423,3.70505E+11,Sandrine Davis,5/28/1997,Female,Nyamasheke,2.50726E+11,RWF,3135698.99,"USSD, Mobile Banking"
+80679,1.48568E+11,Sandrine Thompson,6/12/1951,Male,Kicukiro,2.50712E+11,RWF,2847614.62,"USSD, Internet Banking"
+85867,2.27145E+11,Eric Wilson,9/8/1969,Female,Muhanga,2.50739E+11,RWF,4579314.55,Mobile Banking
+28174,8.67223E+11,Eric Keller,12/3/1975,Female,Rwamagana,2.50743E+11,RWF,61359.42,"Mobile Banking, USSD"
+53009,1.62624E+11,Diane Lewis,9/10/1999,Female,Kayonza,2.50796E+11,RWF,1024490.14,USSD
+37246,2.34027E+11,Chantal Riley,3/17/1972,Female,Kayonza,2.50738E+11,RWF,3456704.01,Mobile Banking
+20648,3.44076E+11,Grace Schaefer,6/23/1988,Female,Rubavu,2.50718E+11,RWF,3438818.79,"Internet Banking, Mobile Banking, USSD"
+35880,7.08071E+11,Patrick Miller,12/25/1971,Female,Rubavu,2.50728E+11,RWF,4383976.74,"Mobile Banking, USSD"
+36940,6.21282E+11,Grace Bailey,4/8/1964,Male,Rubavu,2.50718E+11,RWF,4500425.12,Mobile Banking
+26280,2.42388E+11,Emmanuel Brown,1/27/1978,Male,Rulindo,2.50716E+11,RWF,3845958.73,"USSD, Internet Banking"
+20506,7.62264E+11,Marie Chen,5/30/1963,Male,Kicukiro,2.50799E+11,RWF,52999.3,Internet Banking
+48697,1.40375E+11,Diane Scott,9/9/1979,Female,Rulindo,2.50781E+11,RWF,4280113.19,"Mobile Banking, USSD, Internet Banking"
+11567,3.79932E+11,Marie Griffin,7/31/1987,Male,Rubavu,2.50724E+11,RWF,3090571.61,Mobile Banking
+52486,1.03441E+11,Ange Simmons,4/23/1946,Male,Gasabo,2.50798E+11,RWF,4986326.84,"USSD, Internet Banking"
+84869,7.54886E+11,Esther Li,4/12/1974,Male,Nyagatare,2.50783E+11,RWF,910332.01,Internet Banking
+91422,1.41819E+11,Chantal Gray,12/24/1989,Female,Kayonza,2.50784E+11,RWF,487015.39,Internet Banking
+72374,4.63045E+11,Diane Pope,6/13/2005,Male,Rwamagana,2.50773E+11,RWF,2535465.98,Internet Banking
+23976,4.90089E+11,Marie Morgan,11/24/1958,Male,Rusizi,2.50794E+11,RWF,3588484.04,"USSD, Mobile Banking"
+13876,1.47938E+11,Samuel Shepherd,2/7/1981,Male,Gasabo,2.50784E+11,RWF,2701380.27,"Mobile Banking, USSD"
+55346,8.11317E+11,Grace Gonzalez,11/30/1952,Female,Nyarugenge,2.50714E+11,RWF,2039211.81,"Mobile Banking, USSD, Internet Banking"
+41121,7.99635E+11,Josiane Gonzalez,3/26/2004,Female,Rusizi,2.50786E+11,RWF,1433995.61,Mobile Banking
+21784,1.47744E+11,Fabrice Roth,2/7/1956,Female,Gasabo,2.50752E+11,RWF,4814917.29,"Internet Banking, Mobile Banking, USSD"
+98508,6.93102E+11,Fabrice Sims,9/30/1962,Female,Rusizi,2.50748E+11,RWF,732491.15,"Mobile Banking, USSD, Internet Banking"
+66699,8.32266E+11,Marie Murray,5/27/1967,Male,Kayonza,2.50772E+11,RWF,2398475.67,"USSD, Internet Banking, Mobile Banking"
+90860,8.31666E+11,Claude Burns,4/27/1968,Female,Bugesera,2.50751E+11,RWF,1930463.62,"USSD, Mobile Banking"
+40895,9.87702E+11,Chantal Reeves,12/6/1965,Male,Huye,2.50719E+11,RWF,511257.57,"USSD, Internet Banking"
+24000,7.79951E+11,Jean Contreras,12/16/1960,Male,Karongi,2.50796E+11,RWF,387997.11,"USSD, Mobile Banking, Internet Banking"
+15184,2.42358E+11,Sandrine Porter,5/13/1995,Female,Karongi,2.50758E+11,RWF,1363277.54,"Internet Banking, USSD"
+58049,4.91356E+11,Diane Odonnell,1/16/1998,Male,Gatsibo,2.50726E+11,RWF,1319585.16,"USSD, Internet Banking"
+64171,7.34457E+11,Beata Brown,11/25/1977,Female,Karongi,2.50757E+11,RWF,4076615.67,"USSD, Mobile Banking"
+37264,9.43815E+11,Alice White,1/8/1956,Male,Rusizi,2.50764E+11,RWF,2410078.83,"Internet Banking, Mobile Banking"
+29679,1.83352E+11,Fabrice York,8/1/1992,Female,Gasabo,2.50742E+11,RWF,2288817.36,Mobile Banking
+20717,2.06335E+11,Paul Allen,4/21/1988,Male,Rulindo,2.50755E+11,RWF,328526.51,"Mobile Banking, USSD"
+32755,2.33619E+11,Sandrine Jones,12/22/1953,Male,Rusizi,2.50735E+11,RWF,1216458.91,Internet Banking
+18398,2.64279E+11,Innocent Johnson,3/3/1980,Female,Rusizi,2.5077E+11,RWF,987298.52,"Mobile Banking, USSD, Internet Banking"
+54361,9.26935E+11,Grace Price,7/3/1959,Female,Muhanga,2.50715E+11,RWF,4805186.83,"Mobile Banking, USSD, Internet Banking"
+45372,4.44807E+11,Paul Rios,12/30/1994,Male,Gatsibo,2.50761E+11,RWF,4983315.26,Mobile Banking
+71142,6.62011E+11,Grace Chen,7/22/1972,Male,Rulindo,2.50798E+11,RWF,2631564.3,"Mobile Banking, USSD"
+17374,1.72662E+11,Emmanuel Robinson,10/15/1947,Female,Nyarugenge,2.50756E+11,RWF,215283.57,"Internet Banking, Mobile Banking"
+35393,7.14193E+11,Sandrine Smith,5/15/1960,Male,Kayonza,2.50768E+11,RWF,3477644.16,Mobile Banking
+38366,9.0609E+11,Samuel Lynch,2/12/1979,Female,Nyagatare,2.5074E+11,RWF,4892183.32,"USSD, Mobile Banking"
+29176,5.76763E+11,Claude Miller,2/13/1966,Male,Muhanga,2.50763E+11,RWF,4266627.02,Mobile Banking
+39697,3.57502E+11,Fabrice Gardner,10/28/2005,Female,Rulindo,2.50783E+11,RWF,3106856.31,"USSD, Internet Banking, Mobile Banking"
+35991,9.23884E+11,Diane Hayes,3/25/1961,Female,Rulindo,2.50777E+11,RWF,2346561.04,"Internet Banking, Mobile Banking"
+59299,4.04948E+11,Sandrine Allen,9/10/1954,Male,Nyarugenge,2.50798E+11,RWF,4219603.18,"Mobile Banking, Internet Banking, USSD"
+72678,6.67021E+11,Eric Fernandez,8/5/1973,Male,Rusizi,2.50746E+11,RWF,3331135.14,USSD
+22406,6.36328E+11,Chantal Sloan,9/6/1973,Male,Kayonza,2.50744E+11,RWF,950498.75,"Mobile Banking, Internet Banking"
+84797,1.57431E+11,Esther Martinez,9/26/1949,Male,Gatsibo,2.50793E+11,RWF,2541218.02,"USSD, Internet Banking, Mobile Banking"
+73711,2.51008E+11,Ange Wilson,9/20/1974,Female,Musanze,2.50787E+11,RWF,4594246.29,"Internet Banking, Mobile Banking"
+31032,4.88756E+11,Josiane Schmidt,11/20/1963,Male,Rulindo,2.50729E+11,RWF,4138040.65,USSD
+85747,6.78969E+11,Jean Gill,8/22/1987,Male,Kayonza,2.50725E+11,RWF,4808208.9,"USSD, Internet Banking, Mobile Banking"
+14162,5.08887E+11,Sandrine Butler,11/27/1989,Female,Ngoma,2.50719E+11,RWF,4671629.4,Internet Banking
+93121,6.32534E+11,Jean Salazar,3/8/1986,Male,Nyagatare,2.50734E+11,RWF,484528.14,"USSD, Mobile Banking, Internet Banking"
+17985,3.27633E+11,Beata Ortega,1/16/1989,Male,Rulindo,2.50775E+11,RWF,650110.45,"USSD, Mobile Banking, Internet Banking"
+54365,3.02795E+11,Marie Burgess,4/29/1984,Male,Nyamasheke,2.50766E+11,RWF,3963584.67,USSD
+22742,7.59857E+11,Innocent Richard,2/12/1993,Male,Karongi,2.50727E+11,RWF,4559299.36,"Internet Banking, USSD, Mobile Banking"
+11100,5.12534E+11,Jean Sweeney,11/23/2005,Female,Kicukiro,2.50749E+11,RWF,1804837.58,"Internet Banking, Mobile Banking, USSD"
+25385,9.40708E+11,Sandrine Rodriguez,3/29/1976,Female,Gatsibo,2.50761E+11,RWF,1942559.21,"Internet Banking, Mobile Banking"
+60795,2.08223E+11,Josiane Baker,1/16/1947,Female,Musanze,2.50799E+11,RWF,725724.33,"Mobile Banking, Internet Banking, USSD"
+89165,5.97277E+11,Chantal Young,12/10/1950,Male,Rubavu,2.50748E+11,RWF,1770093.27,"Internet Banking, USSD"
+60929,2.8295E+11,Patrick Chambers,2/24/1969,Male,Rusizi,2.50772E+11,RWF,4577207.87,"USSD, Mobile Banking, Internet Banking"
+25506,2.78859E+11,Sandrine Hernandez,5/15/1946,Female,Gatsibo,2.50748E+11,RWF,1038754.25,"Mobile Banking, USSD"
+37980,6.08243E+11,Emmanuel Smith,5/7/1963,Male,Ngoma,2.50777E+11,RWF,1599138.61,"Internet Banking, USSD, Mobile Banking"
+92829,7.14883E+11,Jean Howe,12/9/2002,Male,Rusizi,2.50718E+11,RWF,3205411.7,"Internet Banking, Mobile Banking"
+81562,3.95981E+11,Jean Olson,6/29/1960,Female,Nyamasheke,2.50765E+11,RWF,3134719.49,"Internet Banking, Mobile Banking"
+32613,7.57101E+11,Grace Green,4/16/1992,Male,Rusizi,2.50734E+11,RWF,1631919.92,"Internet Banking, Mobile Banking, USSD"
+79389,4.10196E+11,Josiane Garner,5/15/1964,Female,Gicumbi,2.50799E+11,RWF,4462816.52,USSD
+21865,3.2102E+11,Marie Thompson,12/16/1972,Male,Musanze,2.5073E+11,RWF,3139892.67,"Internet Banking, Mobile Banking, USSD"
+29812,8.46512E+11,Emmanuel Frazier,11/12/1987,Female,Nyagatare,2.50795E+11,RWF,814875.52,Internet Banking
+29959,9.43443E+11,Claude Lewis,3/9/1983,Female,Muhanga,2.50772E+11,RWF,673372.85,"Mobile Banking, Internet Banking, USSD"
+90215,8.16175E+11,Fabrice Kelly,1/2/1946,Female,Rulindo,2.50766E+11,RWF,2993881.6,"USSD, Mobile Banking"
+54418,1.21418E+11,Esther Martinez,10/19/1993,Female,Rusizi,2.50798E+11,RWF,3027725.36,"Internet Banking, USSD"
+37975,3.0367E+11,Paul Navarro,6/29/1995,Male,Rulindo,2.50794E+11,RWF,2642923.12,"Internet Banking, USSD, Mobile Banking"
+18405,9.49799E+11,Jean Pham,7/3/1985,Female,Bugesera,2.50735E+11,RWF,3860996.52,"Internet Banking, USSD, Mobile Banking"
+71193,7.66041E+11,Marie Harris,9/13/2006,Male,Rulindo,2.50724E+11,RWF,4612052.95,"Mobile Banking, Internet Banking, USSD"
+47561,1.46534E+11,Jean King,2/4/1993,Female,Nyamasheke,2.50789E+11,RWF,4846949.41,"Mobile Banking, USSD"
+22829,6.05036E+11,Samuel Shah,6/15/1977,Female,Bugesera,2.50742E+11,RWF,2555290.43,"Mobile Banking, Internet Banking"
+99002,6.17521E+11,Didier Hall,5/16/1992,Male,Karongi,2.50731E+11,RWF,4697265.41,"Mobile Banking, Internet Banking, USSD"
+25329,5.37303E+11,Grace Murphy,7/21/1987,Male,Bugesera,2.50785E+11,RWF,4259427.8,"Mobile Banking, Internet Banking"
+48201,9.2311E+11,Paul Barnett,6/24/1972,Female,Musanze,2.50717E+11,RWF,3691077.09,"Internet Banking, USSD"
+44235,3.91191E+11,Josiane Kelley,8/4/1985,Male,Ngoma,2.50741E+11,RWF,3508346.94,"Mobile Banking, USSD"
+69085,6.67891E+11,Emmanuel Stevens,10/9/1980,Female,Nyagatare,2.50713E+11,RWF,2789371.53,Mobile Banking
+41304,8.29753E+11,Diane Romero,11/20/1976,Female,Ngoma,2.50741E+11,RWF,1140385.61,"Mobile Banking, USSD, Internet Banking"
+19960,8.98562E+11,Emmanuel Orozco,12/12/1969,Male,Nyagatare,2.50787E+11,RWF,3168341.76,USSD
+56853,6.86751E+11,Grace Novak,6/9/1991,Male,Kicukiro,2.50763E+11,RWF,2037054.68,"Mobile Banking, Internet Banking"
+50997,3.91256E+11,Eric Cameron,5/27/1974,Male,Nyagatare,2.50737E+11,RWF,3765883.03,USSD
+94064,3.89603E+11,Samuel Finley,8/27/1989,Female,Gatsibo,2.50745E+11,RWF,4346086.5,"Internet Banking, USSD"
+96748,5.57427E+11,Chantal Atkins,3/5/1954,Male,Rusizi,2.50739E+11,RWF,1107585.19,"Mobile Banking, USSD"
+37063,2.88443E+11,Ange Baxter,12/10/2004,Female,Karongi,2.50789E+11,RWF,2579153.52,"USSD, Mobile Banking, Internet Banking"
+68083,2.59667E+11,Eric Anderson,2/5/1954,Female,Kayonza,2.50731E+11,RWF,3532554.07,"Internet Banking, USSD, Mobile Banking"
+22461,5.57705E+11,Grace Bailey,11/24/2005,Male,Nyarugenge,2.50766E+11,RWF,2514245.13,USSD
+74287,1.43461E+11,Eric Ross,9/16/1954,Male,Nyagatare,2.50772E+11,RWF,3238996.82,"Internet Banking, USSD, Mobile Banking"
+93497,7.58493E+11,Ange Malone,4/23/1991,Male,Muhanga,2.50735E+11,RWF,3601700.05,Mobile Banking
+81069,8.03499E+11,Alice Brown,6/22/2002,Female,Gasabo,2.50779E+11,RWF,3763360.82,"Mobile Banking, USSD"
+67376,7.91097E+11,Fabrice Dyer,7/6/1977,Female,Rusizi,2.50797E+11,RWF,1418234.98,"USSD, Mobile Banking"
+67962,9.26104E+11,Grace Moore,10/6/1973,Female,Ngoma,2.50747E+11,RWF,1343962.33,USSD
+47325,2.06118E+11,Samuel Burton,12/14/1950,Female,Gatsibo,2.50734E+11,RWF,2301532.84,"Internet Banking, USSD"
+77123,7.05275E+11,Beata Pope,3/6/2002,Female,Huye,2.50717E+11,RWF,1275861.29,Internet Banking
+57453,2.27771E+11,Chantal Morales,3/24/2002,Male,Rusizi,2.5073E+11,RWF,3145420.14,"USSD, Internet Banking, Mobile Banking"
+65450,4.30738E+11,Ange Burke,11/19/1954,Female,Karongi,2.50713E+11,RWF,1804263.63,Internet Banking
+93593,9.77623E+11,Grace Casey,11/28/2007,Male,Huye,2.50782E+11,RWF,457521.25,"USSD, Mobile Banking"
+92346,1.47405E+11,Didier Krueger,12/5/2005,Male,Rulindo,2.50788E+11,RWF,4509453.41,"Mobile Banking, USSD"
+83068,2.85204E+11,Josiane Jones,2/19/1997,Male,Gasabo,2.50733E+11,RWF,4007484.18,"Internet Banking, Mobile Banking, USSD"
+39249,4.11118E+11,Marie Gill,5/29/1957,Female,Kayonza,2.50749E+11,RWF,141154.23,"Internet Banking, Mobile Banking"
+23605,8.39565E+11,Diane Farrell,3/8/1950,Male,Karongi,2.50794E+11,RWF,2400693.08,Mobile Banking
+97793,3.01445E+11,Jean Hoffman,5/22/1961,Male,Gatsibo,2.50753E+11,RWF,3185925.44,"USSD, Mobile Banking, Internet Banking"
+89185,2.30622E+11,Emmanuel Benjamin,2/19/1999,Male,Rusizi,2.50798E+11,RWF,4594221.83,Internet Banking
+25038,2.3367E+11,Esther Coleman,10/10/1997,Female,Musanze,2.50787E+11,RWF,3015295.88,"Internet Banking, USSD, Mobile Banking"
+16558,3.271E+11,Samuel Skinner,7/13/1954,Male,Gasabo,2.50727E+11,RWF,4747565.52,"Internet Banking, Mobile Banking"
+15424,9.4752E+11,Marie Castro,4/18/1954,Female,Ngoma,2.50734E+11,RWF,4533964.57,"USSD, Mobile Banking"
+50213,6.73587E+11,Paul Russell,5/8/1983,Male,Nyarugenge,2.5075E+11,RWF,521142.29,"Mobile Banking, Internet Banking"
+87208,5.72322E+11,Sandrine Smith,1/15/1968,Male,Gasabo,2.5072E+11,RWF,1306329.28,"USSD, Internet Banking"
+34940,1.50061E+11,Didier Thornton,2/12/1969,Male,Kayonza,2.5071E+11,RWF,1612257.27,"Mobile Banking, Internet Banking, USSD"
+72770,2.73696E+11,Patrick Peters,4/14/1963,Female,Karongi,2.50796E+11,RWF,965276.06,Mobile Banking
+88836,9.86811E+11,Diane Fry,10/2/1950,Male,Rubavu,2.50724E+11,RWF,1211014.89,"Internet Banking, Mobile Banking, USSD"
+66763,8.44057E+11,Jean Adams,7/22/1951,Female,Bugesera,2.50787E+11,RWF,4887717.79,"Mobile Banking, USSD, Internet Banking"
+67596,5.41152E+11,Didier Taylor,3/2/1956,Female,Rusizi,2.50795E+11,RWF,534212.6,Internet Banking
+60599,1.89117E+11,Marie Patel,6/24/2000,Male,Rwamagana,2.50744E+11,RWF,1455713.21,"USSD, Mobile Banking, Internet Banking"
+72458,9.17596E+11,Ange Martin,4/10/1997,Female,Karongi,2.50771E+11,RWF,4335854.5,"USSD, Mobile Banking, Internet Banking"
+33504,1.37847E+11,Jean Turner,12/4/2001,Male,Musanze,2.5072E+11,RWF,4792471.66,USSD
+82525,9.29913E+11,Fabrice Smith,10/5/2006,Female,Kayonza,2.50732E+11,RWF,279689.54,USSD
+38934,5.66549E+11,Emmanuel Baldwin,3/22/2007,Female,Gicumbi,2.50764E+11,RWF,4616654.5,Mobile Banking
+77924,9.79762E+11,Josiane Porter,10/15/1983,Female,Gicumbi,2.50731E+11,RWF,3697522.06,"USSD, Mobile Banking"
+98690,8.49071E+11,Claude Hobbs,8/26/1946,Female,Muhanga,2.50724E+11,RWF,616243.2,Internet Banking
+64158,5.77269E+11,Emmanuel Wright,2/15/1956,Male,Nyarugenge,2.50724E+11,RWF,1193340.27,Mobile Banking
+51043,9.72043E+11,Jean Nelson,2/15/1979,Male,Kicukiro,2.50762E+11,RWF,4387802.55,"Internet Banking, USSD, Mobile Banking"
+88490,4.91551E+11,Emmanuel Andrews,1/23/1962,Female,Bugesera,2.50793E+11,RWF,4875590.38,"USSD, Mobile Banking"
+30899,6.00484E+11,Samuel Hammond,1/15/1963,Male,Nyagatare,2.50761E+11,RWF,2356199.18,USSD
+84389,1.7057E+11,Marie Johnson,7/26/1949,Male,Ngoma,2.50783E+11,RWF,1046535.76,"Internet Banking, USSD"
+72495,9.60699E+11,Jean Sullivan,4/27/1999,Male,Gasabo,2.50763E+11,RWF,4086950.16,"Mobile Banking, Internet Banking, USSD"
+53538,9.84758E+11,Eric Robinson,7/24/1996,Female,Rubavu,2.5074E+11,RWF,3802732.07,"Internet Banking, USSD, Mobile Banking"
+84298,7.41602E+11,Paul Barnes,7/17/1960,Female,Kayonza,2.50715E+11,RWF,3232472.68,Internet Banking
+99521,3.91841E+11,Chantal Hayes,9/7/1967,Male,Muhanga,2.50715E+11,RWF,1640994.18,Internet Banking
+17583,8.52434E+11,Sandrine Colon,3/9/2001,Male,Nyagatare,2.50751E+11,RWF,1936653.57,"Internet Banking, USSD, Mobile Banking"
+37195,6.70886E+11,Alice Garcia,5/3/1983,Female,Ngoma,2.50715E+11,RWF,254751.53,"Internet Banking, Mobile Banking, USSD"
+60632,3.03897E+11,Esther Dickerson,10/16/1986,Male,Rulindo,2.50727E+11,RWF,4405915.82,"Internet Banking, Mobile Banking, USSD"
+97540,1.89821E+11,Esther Velasquez,9/16/1973,Male,Nyagatare,2.50789E+11,RWF,1926706.88,Internet Banking
+28380,9.04199E+11,Emmanuel Campbell,4/15/1989,Female,Bugesera,2.50717E+11,RWF,963128.44,"USSD, Internet Banking"
+26704,2.58327E+11,Grace Wilson,9/19/1975,Male,Kicukiro,2.50784E+11,RWF,3099614.89,USSD
+71661,7.69358E+11,Jean Stone,3/15/1969,Female,Ngoma,2.50753E+11,RWF,1223308.51,USSD
+47098,1.62533E+11,Paul Perez,12/12/1948,Male,Rwamagana,2.50728E+11,RWF,4315289.76,"USSD, Mobile Banking, Internet Banking"
+94748,7.52256E+11,Diane Johnson,12/31/2004,Female,Rwamagana,2.5077E+11,RWF,3040671.85,"Mobile Banking, USSD"
+76692,1.94209E+11,Sandrine Walker,9/30/1960,Female,Karongi,2.5077E+11,RWF,4902157.05,"Internet Banking, Mobile Banking, USSD"
+92048,5.41857E+11,Claude Brown,6/24/1959,Male,Rulindo,2.50774E+11,RWF,305720.4,Mobile Banking
+61222,9.6689E+11,Josiane Colon,9/26/1976,Female,Gasabo,2.5078E+11,RWF,4252605.57,Mobile Banking
+26468,3.27866E+11,Marie Flores,12/31/1983,Female,Gicumbi,2.50717E+11,RWF,3070275.87,"USSD, Internet Banking, Mobile Banking"
+95877,9.18114E+11,Eric Phelps,8/15/1992,Female,Musanze,2.50792E+11,RWF,3084355.3,Mobile Banking
+48380,5.72975E+11,Grace Scott,11/24/1974,Male,Nyamasheke,2.50744E+11,RWF,4126530.92,"USSD, Internet Banking"
+14032,9.23078E+11,Jean Wood,5/4/1971,Male,Gatsibo,2.5075E+11,RWF,2911111.69,"Mobile Banking, USSD, Internet Banking"
+89498,6.47937E+11,Patrick Cook,5/22/1959,Female,Nyamasheke,2.50764E+11,RWF,2994269.62,Mobile Banking
+96616,9.97131E+11,Diane Salazar,8/29/1972,Male,Nyagatare,2.50755E+11,RWF,1739493.04,"Internet Banking, USSD"
+90023,3.08296E+11,Chantal Gregory,10/13/1977,Female,Rusizi,2.5073E+11,RWF,3074789.91,"Mobile Banking, USSD, Internet Banking"
+26557,1.74334E+11,Ange Gallagher,4/6/1988,Female,Bugesera,2.50725E+11,RWF,2359990.93,"Internet Banking, USSD, Mobile Banking"
+81143,3.20088E+11,Alice Bowman,6/15/1975,Male,Gatsibo,2.5077E+11,RWF,2191353.54,"Mobile Banking, Internet Banking"
+96802,8.78211E+11,Grace Sanders,10/11/1959,Female,Nyamasheke,2.50793E+11,RWF,2387219.58,Mobile Banking
+41176,9.8317E+11,Marie Everett,2/17/2002,Female,Karongi,2.50738E+11,RWF,1046450.94,"Mobile Banking, USSD, Internet Banking"
+79164,2.32794E+11,Jean Reed,5/26/1989,Female,Gatsibo,2.50792E+11,RWF,1055333.93,"USSD, Internet Banking, Mobile Banking"
+72578,3.87849E+11,Esther Gray,7/1/1993,Male,Nyamasheke,2.50783E+11,RWF,4283130.18,"USSD, Internet Banking, Mobile Banking"
+42437,9.66435E+11,Diane Mayer,6/10/1968,Female,Muhanga,2.50791E+11,RWF,4528970.98,Internet Banking
+75996,2.65832E+11,Jean Smith,1/30/1973,Female,Gasabo,2.50731E+11,RWF,4403746.25,"USSD, Mobile Banking, Internet Banking"
+52328,2.95186E+11,Beata Howell,12/2/1998,Male,Gasabo,2.5073E+11,RWF,4093215.14,"Internet Banking, USSD"
+97219,7.30686E+11,Josiane Roberts,10/23/1946,Male,Karongi,2.50762E+11,RWF,1654416.24,"Internet Banking, Mobile Banking"
+56035,9.74201E+11,Diane Cook,4/7/2005,Female,Kayonza,2.50792E+11,RWF,1678729.5,USSD
+33969,3.58085E+11,Ange Christensen,6/11/1990,Female,Nyamasheke,2.50753E+11,RWF,2913365.33,"USSD, Internet Banking, Mobile Banking"
+42309,9.70188E+11,Emmanuel Hale,2/7/1951,Female,Karongi,2.50729E+11,RWF,4755420.4,"USSD, Mobile Banking"
+22824,3.3716E+11,Ange Hill,8/13/1963,Female,Rulindo,2.50746E+11,RWF,995818.62,"USSD, Mobile Banking"
+30107,2.61169E+11,Josiane Goodwin,1/20/1989,Female,Kayonza,2.50739E+11,RWF,4343514.6,USSD
+83449,3.5351E+11,Sandrine Short,7/22/1985,Female,Ngoma,2.50737E+11,RWF,3881447.23,Mobile Banking
+64370,1.27507E+11,Grace Newman,1/13/2006,Female,Nyarugenge,2.5075E+11,RWF,2452912.76,"Internet Banking, USSD"
+92367,6.57823E+11,Didier Welch,12/4/1957,Female,Huye,2.50725E+11,RWF,2106060.11,Mobile Banking
+47666,7.8891E+11,Josiane Pearson,9/20/1991,Female,Rwamagana,2.50737E+11,RWF,694469.01,"Mobile Banking, USSD, Internet Banking"
+30786,6.98513E+11,Beata Vega,10/16/1983,Female,Rusizi,2.50789E+11,RWF,1769007.42,"Mobile Banking, USSD, Internet Banking"
+90835,3.05272E+11,Alice Hill,3/11/1979,Male,Nyamasheke,2.50746E+11,RWF,1651856.59,"Internet Banking, USSD"
+31768,1.96169E+11,Chantal Reid,1/30/1989,Male,Rusizi,2.5073E+11,RWF,621082.07,Mobile Banking
+75586,3.68497E+11,Didier Lee,6/29/1983,Male,Gasabo,2.50786E+11,RWF,4486628.37,"USSD, Internet Banking, Mobile Banking"
+83525,8.1228E+11,Beata Freeman,4/5/1963,Female,Gatsibo,2.50716E+11,RWF,3502293.52,"Mobile Banking, USSD"
+80870,6.13752E+11,Innocent Smith,7/2/1958,Female,Huye,2.50752E+11,RWF,1871263.63,"Internet Banking, USSD, Mobile Banking"
+37091,6.29706E+11,Grace Anderson,10/8/1960,Female,Rulindo,2.50715E+11,RWF,2909489.69,USSD
+43313,8.59409E+11,Claude Monroe,8/1/1999,Female,Huye,2.50758E+11,RWF,2894951.25,"Internet Banking, USSD, Mobile Banking"
+86997,1.91226E+11,Diane Johnson,5/18/1978,Female,Rubavu,2.50786E+11,RWF,3499175.72,"Internet Banking, Mobile Banking"
+53583,7.33463E+11,Esther Dennis,11/21/1981,Female,Musanze,2.50746E+11,RWF,4102240.33,Mobile Banking
+74523,3.44578E+11,Chantal Williams,7/27/1983,Female,Gicumbi,2.50743E+11,RWF,554994.17,"Mobile Banking, Internet Banking"
+40362,3.28607E+11,Emmanuel Garcia,9/29/1999,Female,Rulindo,2.50781E+11,RWF,2839234.82,Mobile Banking
+84557,5.37287E+11,Ange Duncan,4/5/1963,Male,Kayonza,2.50733E+11,RWF,2293205.79,"Internet Banking, Mobile Banking, USSD"
+78636,6.88798E+11,Diane Castaneda,6/8/1983,Female,Muhanga,2.50726E+11,RWF,2600269.78,Internet Banking
+19710,2.38353E+11,Eric Griffin,11/1/1983,Male,Bugesera,2.50792E+11,RWF,1310537.88,"Internet Banking, USSD"
+23521,6.65645E+11,Emmanuel Patton,5/31/1970,Female,Kicukiro,2.50764E+11,RWF,4601447.63,"Mobile Banking, USSD"
+21121,7.52732E+11,Diane White,6/17/1970,Female,Gicumbi,2.50731E+11,RWF,2830437.72,"USSD, Internet Banking"
+17719,6.23736E+11,Didier Calhoun,6/8/1947,Female,Huye,2.50748E+11,RWF,3041441.94,USSD
+52304,3.49642E+11,Innocent Thomas,5/18/1992,Male,Karongi,2.5072E+11,RWF,359060.41,Mobile Banking
+81917,9.14367E+11,Didier Edwards,1/28/1988,Male,Huye,2.50733E+11,RWF,4838669.19,"Mobile Banking, Internet Banking, USSD"
+79653,3.27643E+11,Josiane Alvarez,7/6/1955,Male,Nyagatare,2.50738E+11,RWF,2016222.4,"USSD, Internet Banking"
+33995,6.3009E+11,Patrick Lopez,6/4/1974,Female,Ngoma,2.50742E+11,RWF,2781078.72,"USSD, Internet Banking"
+29523,9.83072E+11,Patrick Smith,4/18/1982,Female,Gasabo,2.50713E+11,RWF,1390347.52,"Internet Banking, USSD"
+39274,7.39118E+11,Diane Robertson,9/11/1992,Female,Nyamasheke,2.50782E+11,RWF,1968956.41,USSD
+94597,9.83455E+11,Sandrine Sawyer,7/4/1978,Male,Nyamasheke,2.50792E+11,RWF,3995874.76,"Internet Banking, Mobile Banking"
+56612,4.03496E+11,Josiane Scott,8/8/1997,Male,Gatsibo,2.50744E+11,RWF,4094964.75,"USSD, Internet Banking, Mobile Banking"
+24316,2.3251E+11,Innocent Mcguire,8/14/1995,Female,Muhanga,2.50712E+11,RWF,478398.71,"Internet Banking, USSD, Mobile Banking"
+47469,2.50062E+11,Samuel Sawyer,9/30/1984,Male,Karongi,2.50719E+11,RWF,2573316.46,"Internet Banking, USSD"
+43954,1.63093E+11,Ange Williams,12/11/1966,Male,Huye,2.50752E+11,RWF,1359881.17,"Internet Banking, Mobile Banking, USSD"
+57515,8.99298E+11,Ange Jones,10/19/1957,Male,Musanze,2.50785E+11,RWF,12211.48,"USSD, Mobile Banking"
+80378,3.21369E+11,Esther Alvarez,1/21/1996,Male,Rubavu,2.50777E+11,RWF,926716.21,"Mobile Banking, USSD, Internet Banking"
+53229,8.11051E+11,Chantal King,1/3/1954,Female,Nyarugenge,2.50714E+11,RWF,671087.26,"Mobile Banking, USSD, Internet Banking"
+51638,3.51251E+11,Didier Collins,11/5/2006,Male,Nyamasheke,2.50793E+11,RWF,1240829.21,"Internet Banking, USSD, Mobile Banking"
+73563,6.06522E+11,Paul Cummings,12/8/1991,Male,Huye,2.50768E+11,RWF,3439276.12,Mobile Banking
+43848,8.99042E+11,Beata Bates,11/22/2006,Female,Huye,2.50717E+11,RWF,1198062.78,"Mobile Banking, Internet Banking, USSD"
+64639,7.90597E+11,Patrick Hernandez,2/10/1951,Female,Nyagatare,2.50727E+11,RWF,2608354.61,"USSD, Mobile Banking"
+95944,6.55624E+11,Grace Serrano,10/15/1986,Male,Gasabo,2.50725E+11,RWF,4847922.65,"Internet Banking, USSD, Mobile Banking"
+41596,3.62984E+11,Innocent Moore,10/7/1949,Male,Nyarugenge,2.50748E+11,RWF,1012214.54,USSD
+90327,6.04688E+11,Marie Campbell,8/21/1953,Female,Bugesera,2.50792E+11,RWF,1486973.85,"Internet Banking, USSD"
+39059,6.72287E+11,Esther Michael,1/16/1949,Male,Kayonza,2.50778E+11,RWF,839444.11,"USSD, Mobile Banking"
+57860,5.83277E+11,Esther Cline,8/29/2001,Female,Rwamagana,2.50766E+11,RWF,1495648.24,"USSD, Internet Banking"
+10568,9.43059E+11,Esther Reilly,4/26/1987,Male,Gatsibo,2.50733E+11,RWF,1517923.74,"Internet Banking, Mobile Banking, USSD"
+99333,1.73353E+11,Didier Ali,10/29/1951,Male,Huye,2.50781E+11,RWF,1699909.31,Mobile Banking
+39965,6.05995E+11,Patrick Smith,11/3/1966,Male,Karongi,2.50787E+11,RWF,133373.88,Internet Banking
+50893,7.01111E+11,Jean Reyes,5/10/1954,Male,Bugesera,2.50718E+11,RWF,3153591.02,Mobile Banking
+35654,4.6876E+11,Chantal Bishop,5/15/1952,Female,Ngoma,2.50722E+11,RWF,2901962.4,"Internet Banking, Mobile Banking, USSD"
+12778,4.34225E+11,Samuel Cisneros,5/5/1999,Male,Musanze,2.50796E+11,RWF,3567725.96,Mobile Banking
+31533,5.20803E+11,Paul Morgan,10/31/1959,Female,Gasabo,2.50746E+11,RWF,632203.98,Internet Banking
+79549,1.11848E+11,Chantal Blackwell,4/22/1993,Male,Bugesera,2.50731E+11,RWF,3624672.58,"Mobile Banking, USSD, Internet Banking"
+21336,3.69976E+11,Claude Murray,12/8/1986,Female,Bugesera,2.50732E+11,RWF,3338630.8,Mobile Banking
+23305,2.24431E+11,Didier Williams,7/11/2005,Male,Kicukiro,2.50761E+11,RWF,4231948.15,Mobile Banking
+67137,9.84178E+11,Grace Lawrence,5/13/1956,Female,Ngoma,2.50734E+11,RWF,3350524.5,"USSD, Internet Banking"
+58969,1.89198E+11,Patrick Hudson,3/22/1995,Male,Kicukiro,2.50757E+11,RWF,186092.94,"USSD, Mobile Banking, Internet Banking"
+63561,8.35565E+11,Emmanuel Smith,6/3/1985,Male,Huye,2.50773E+11,RWF,3712307.38,Internet Banking
+37390,8.37791E+11,Beata Parker,11/30/1994,Female,Rulindo,2.50797E+11,RWF,80929.52,"USSD, Mobile Banking"
+62001,3.72525E+11,Beata Rocha,5/14/1993,Female,Musanze,2.50776E+11,RWF,3675403.26,"Internet Banking, Mobile Banking, USSD"
+69615,3.38248E+11,Innocent Gomez,4/11/1987,Male,Karongi,2.50754E+11,RWF,1916726.2,Internet Banking
+13755,7.61382E+11,Patrick Miller,9/17/1960,Female,Gatsibo,2.50781E+11,RWF,360351.51,"USSD, Mobile Banking, Internet Banking"
+68567,7.71045E+11,Emmanuel Chapman,12/29/1955,Male,Muhanga,2.50741E+11,RWF,4671195.96,USSD
+64329,1.93174E+11,Patrick Cochran,2/24/1964,Female,Nyamasheke,2.50734E+11,RWF,1491953.01,Internet Banking
+88949,3.29756E+11,Fabrice Norton,10/13/1987,Female,Rwamagana,2.50784E+11,RWF,4364062.9,"Mobile Banking, USSD"
+47354,3.46674E+11,Didier Robinson,1/9/1991,Male,Karongi,2.50799E+11,RWF,75009.48,Mobile Banking
+66132,8.33494E+11,Claude Mccarthy,3/18/1963,Female,Karongi,2.50742E+11,RWF,4676728.62,"USSD, Internet Banking"
+97691,1.72429E+11,Claude Lane,12/1/1963,Female,Huye,2.50751E+11,RWF,4808126.72,Internet Banking
+90585,5.77518E+11,Eric Ayers,1/9/1965,Female,Karongi,2.50786E+11,RWF,1830631.54,"USSD, Mobile Banking"
+21691,9.16522E+11,Chantal Stout,10/24/1970,Female,Musanze,2.50722E+11,RWF,2582017.65,USSD
+23078,1.61844E+11,Claude Powell,1/24/1987,Male,Gatsibo,2.50772E+11,RWF,1882751.92,"Internet Banking, USSD, Mobile Banking"
+71280,5.45568E+11,Paul Jones,9/15/1973,Female,Gicumbi,2.50742E+11,RWF,4572648.87,"Internet Banking, USSD"
+34117,1.20655E+11,Paul Rodriguez,1/28/1998,Female,Gicumbi,2.50788E+11,RWF,1066448.1,"USSD, Internet Banking, Mobile Banking"
+94198,5.10981E+11,Innocent Costa,6/11/1990,Female,Gasabo,2.50741E+11,RWF,455714.34,"Mobile Banking, USSD, Internet Banking"
+88607,9.74013E+11,Claude Knight,5/7/1984,Female,Bugesera,2.50721E+11,RWF,711698.85,Mobile Banking
+34042,3.63561E+11,Beata Oliver,6/5/1981,Female,Karongi,2.50721E+11,RWF,1708183.59,"Mobile Banking, Internet Banking, USSD"
+40735,5.91253E+11,Jean Peck,3/7/1979,Male,Rubavu,2.50798E+11,RWF,3939552.24,"Internet Banking, Mobile Banking, USSD"
+30483,4.16473E+11,Grace Howell,2/21/1974,Female,Nyarugenge,2.50781E+11,RWF,3042709.6,"Internet Banking, USSD"
+70493,8.7429E+11,Chantal Beck,2/26/1948,Female,Nyagatare,2.50797E+11,RWF,2107671.35,"Internet Banking, Mobile Banking"
+85257,1.52543E+11,Ange Hanson,6/13/1952,Male,Rubavu,2.50717E+11,RWF,4699637.03,Internet Banking
+77100,6.52026E+11,Samuel Espinoza,2/25/1968,Female,Gatsibo,2.50792E+11,RWF,1846999.53,"Internet Banking, USSD, Mobile Banking"
+31254,2.80644E+11,Esther Duke,6/14/1974,Male,Rulindo,2.50765E+11,RWF,640961.19,Mobile Banking
+10458,7.86519E+11,Esther Tran,4/1/1957,Female,Rubavu,2.50761E+11,RWF,2102048.21,Mobile Banking
+61538,5.75956E+11,Emmanuel Whitney,12/1/1991,Female,Kicukiro,2.50759E+11,RWF,577037.63,"Internet Banking, USSD"
+14893,7.74198E+11,Alice Owens,6/21/1995,Male,Rulindo,2.50757E+11,RWF,458552.93,Mobile Banking
+78706,2.24562E+11,Beata Parker,5/30/1991,Female,Rubavu,2.50751E+11,RWF,1993699.6,"Mobile Banking, Internet Banking"
+93053,3.59008E+11,Alice Rodriguez,4/1/1993,Male,Bugesera,2.50765E+11,RWF,4998172.7,"Internet Banking, Mobile Banking, USSD"
+38139,3.16521E+11,Beata Miranda,1/15/2001,Male,Bugesera,2.5077E+11,RWF,1719835.47,USSD
+36502,7.61311E+11,Paul Oconnell,8/12/1964,Female,Huye,2.50779E+11,RWF,651908.67,Mobile Banking
+76868,8.28693E+11,Marie Pearson,11/2/1994,Male,Ngoma,2.50796E+11,RWF,4219346.53,"USSD, Mobile Banking, Internet Banking"
+72110,2.79303E+11,Ange Wells,12/21/1985,Female,Kayonza,2.50731E+11,RWF,3341203.14,"USSD, Mobile Banking"
+41881,7.45314E+11,Sandrine Baker,4/29/2004,Female,Rubavu,2.50743E+11,RWF,4980597.34,Mobile Banking
+98227,7.64824E+11,Alice Hughes,9/18/1955,Female,Kayonza,2.50775E+11,RWF,3695064.72,"Internet Banking, Mobile Banking"
+98836,7.02729E+11,Marie Melton,11/2/2005,Male,Bugesera,2.5078E+11,RWF,1105331.91,"Internet Banking, Mobile Banking"
+48286,2.531E+11,Eric Ortega,1/21/1949,Male,Muhanga,2.5079E+11,RWF,2809915.77,"USSD, Mobile Banking, Internet Banking"
+27219,8.79146E+11,Beata Johnston,11/9/1998,Male,Bugesera,2.5077E+11,RWF,4674275.5,"USSD, Mobile Banking"
+74108,6.51074E+11,Sandrine Oliver,3/15/1988,Female,Nyagatare,2.50719E+11,RWF,2386672.68,"Internet Banking, Mobile Banking"
+21838,5.09465E+11,Beata Hoover,3/24/1953,Male,Nyamasheke,2.50767E+11,RWF,1045691.3,USSD
+92823,8.32255E+11,Paul Russell,2/15/1989,Male,Muhanga,2.50715E+11,RWF,3207412.57,"USSD, Internet Banking, Mobile Banking"
+76271,1.02396E+11,Sandrine Campbell,1/1/2005,Female,Nyagatare,2.50724E+11,RWF,1325265.03,"USSD, Mobile Banking"
+55838,8.40972E+11,Beata Perkins,12/30/1950,Male,Rusizi,2.50716E+11,RWF,4795897,Internet Banking
+29588,5.57604E+11,Beata Johnson,2/12/1999,Male,Huye,2.50746E+11,RWF,2301562.9,"Internet Banking, USSD, Mobile Banking"
+32803,7.40283E+11,Jean Cobb,5/10/2004,Male,Rwamagana,2.50714E+11,RWF,4264281.95,Internet Banking
+96712,6.65128E+11,Sandrine Miller,3/2/1976,Male,Nyagatare,2.50713E+11,RWF,281925.98,Internet Banking
+33782,7.34725E+11,Claude Harrington,10/4/1992,Male,Kicukiro,2.50716E+11,RWF,2831126.88,"USSD, Mobile Banking, Internet Banking"
+26303,4.25702E+11,Patrick Maldonado,9/8/1971,Male,Musanze,2.50713E+11,RWF,370173.85,"USSD, Mobile Banking, Internet Banking"
+14620,5.11056E+11,Paul Fisher,3/29/1967,Male,Rulindo,2.50721E+11,RWF,993717.99,"USSD, Mobile Banking"
+89551,3.16773E+11,Emmanuel Mcmahon,10/2/1965,Male,Rubavu,2.50717E+11,RWF,461936.09,Internet Banking
+60147,7.13318E+11,Beata Paul,10/1/1962,Female,Nyamasheke,2.50726E+11,RWF,636179.53,"Internet Banking, USSD"
+16742,3.76035E+11,Jean Gay,5/5/1957,Female,Musanze,2.50712E+11,RWF,3061505.57,Mobile Banking
+86363,8.40641E+11,Claude Lozano,10/3/1949,Female,Gatsibo,2.50799E+11,RWF,1074900.38,USSD
+31510,9.25232E+11,Marie Powell,11/4/1985,Female,Rwamagana,2.50778E+11,RWF,3587899.04,"USSD, Internet Banking"
+41695,5.58308E+11,Patrick Owens,7/18/1964,Female,Gatsibo,2.5078E+11,RWF,155759.67,"Internet Banking, USSD, Mobile Banking"
+56571,3.78742E+11,Alice Brown,11/3/2000,Male,Bugesera,2.50779E+11,RWF,2927389.47,Internet Banking
+14897,5.41959E+11,Emmanuel Moore,9/19/1976,Male,Rubavu,2.50765E+11,RWF,459905.19,"USSD, Mobile Banking, Internet Banking"
+27006,4.30777E+11,Grace Cross,1/2/1975,Female,Karongi,2.50715E+11,RWF,739072.01,"Mobile Banking, USSD"
+79113,5.64141E+11,Diane Daniels,5/15/1945,Male,Rusizi,2.50711E+11,RWF,2171268.68,"Internet Banking, Mobile Banking, USSD"
+28759,6.28496E+11,Samuel Brown,7/28/1980,Female,Ngoma,2.50772E+11,RWF,1983553.67,"Internet Banking, USSD, Mobile Banking"
+62980,8.14224E+11,Fabrice Jones,4/29/1970,Male,Kicukiro,2.50782E+11,RWF,1110376.11,"Mobile Banking, USSD"
+59350,7.11012E+11,Sandrine Dougherty,2/10/1959,Male,Bugesera,2.50796E+11,RWF,4491811.29,Mobile Banking
+42772,3.17747E+11,Eric Sullivan,8/19/1947,Male,Kicukiro,2.5078E+11,RWF,1970859.58,"Internet Banking, USSD, Mobile Banking"
+44341,6.74578E+11,Josiane Maxwell,10/17/1976,Female,Bugesera,2.50783E+11,RWF,3376900.35,"USSD, Internet Banking"
+75679,6.33453E+11,Eric Taylor,3/29/1953,Female,Gasabo,2.50774E+11,RWF,2516885.08,"USSD, Mobile Banking"
+59912,9.5055E+11,Josiane Poole,6/9/2007,Female,Nyamasheke,2.50765E+11,RWF,1852025.23,USSD
+53927,5.24946E+11,Claude Hill,3/7/2003,Male,Rulindo,2.50746E+11,RWF,1017550.75,"USSD, Mobile Banking, Internet Banking"
+33202,1.47324E+11,Innocent Campbell,10/11/2007,Female,Rubavu,2.50797E+11,RWF,2199872.36,"Mobile Banking, USSD, Internet Banking"
+14520,7.42046E+11,Emmanuel Hunter,9/11/1981,Female,Rwamagana,2.50711E+11,RWF,4728422.09,"USSD, Internet Banking, Mobile Banking"
+33008,6.14812E+11,Patrick Hall,6/10/1968,Female,Karongi,2.50731E+11,RWF,3821046.58,"Internet Banking, Mobile Banking, USSD"
+76906,1.57831E+11,Esther Hill,10/28/1945,Male,Nyagatare,2.50712E+11,RWF,152331.73,"Internet Banking, Mobile Banking, USSD"
+59085,5.15418E+11,Ange Wallace,6/5/1979,Male,Huye,2.50765E+11,RWF,140978.56,Internet Banking
+64925,3.30161E+11,Jean Nelson,6/18/1947,Female,Karongi,2.50752E+11,RWF,3562497.26,"USSD, Internet Banking, Mobile Banking"
+56220,5.9731E+11,Patrick Webb,1/16/2005,Male,Bugesera,2.50799E+11,RWF,2127496.88,Internet Banking
+19434,8.20633E+11,Samuel Sampson,5/23/1946,Male,Musanze,2.50743E+11,RWF,3755347.81,"USSD, Mobile Banking, Internet Banking"
+22346,6.24232E+11,Paul Parker,7/19/1987,Female,Gicumbi,2.50746E+11,RWF,892656.53,Internet Banking
+99715,6.66032E+11,Eric Smith,5/23/1958,Female,Rulindo,2.50744E+11,RWF,1675650.41,"Internet Banking, USSD"
+10488,3.53637E+11,Josiane Lyons,11/16/2005,Male,Bugesera,2.50726E+11,RWF,3723120.92,"Internet Banking, USSD"
+24400,5.00805E+11,Emmanuel Mccoy,2/23/2000,Male,Muhanga,2.50737E+11,RWF,699594.25,"Mobile Banking, Internet Banking"
+58463,8.0178E+11,Samuel Hale,5/16/1947,Female,Rubavu,2.50794E+11,RWF,438893.37,"USSD, Mobile Banking"
+82686,4.92115E+11,Eric Nichols,12/10/2006,Male,Karongi,2.50748E+11,RWF,4525212.2,"USSD, Internet Banking, Mobile Banking"
+44034,2.98951E+11,Sandrine Jacobs,10/18/1982,Female,Bugesera,2.50749E+11,RWF,4237687.05,Mobile Banking
+27342,8.92693E+11,Innocent Graves,10/6/2007,Male,Bugesera,2.50788E+11,RWF,3377092.46,"Internet Banking, USSD"
+84352,5.34042E+11,Beata Powell,6/26/1955,Male,Muhanga,2.5078E+11,RWF,3603238.86,Mobile Banking
+23192,2.63667E+11,Esther Daniels,9/17/2000,Male,Rusizi,2.50727E+11,RWF,1936728.01,Internet Banking
+23364,4.5944E+11,Jean Garcia,5/21/2001,Female,Huye,2.50739E+11,RWF,214925.2,"Internet Banking, USSD, Mobile Banking"
+98950,1.55609E+11,Innocent Powell,9/16/1983,Male,Bugesera,2.50712E+11,RWF,2578252.72,"Internet Banking, Mobile Banking"
+63436,2.75448E+11,Ange Moore,3/6/1962,Male,Musanze,2.50738E+11,RWF,2133069.6,USSD
+53226,7.72311E+11,Fabrice Adams,1/13/1959,Female,Kicukiro,2.50768E+11,RWF,3836262.98,"Internet Banking, Mobile Banking, USSD"
+47151,9.55139E+11,Beata Clark,3/26/1986,Male,Rulindo,2.50718E+11,RWF,57786.83,"Internet Banking, Mobile Banking, USSD"
+26879,3.39358E+11,Jean Mckenzie,6/15/1982,Female,Kayonza,2.50772E+11,RWF,4824874.59,"Mobile Banking, Internet Banking, USSD"
+25265,2.92542E+11,Didier Carrillo,12/24/1967,Female,Karongi,2.50782E+11,RWF,4134254.9,"Mobile Banking, USSD, Internet Banking"
+51521,9.74963E+11,Ange Mcpherson,9/29/1974,Female,Nyamasheke,2.50736E+11,RWF,1831631.98,"Internet Banking, USSD, Mobile Banking"
+84520,5.29917E+11,Chantal French,8/14/1970,Female,Gicumbi,2.5078E+11,RWF,971428.04,"Internet Banking, USSD, Mobile Banking"
+30560,6.70762E+11,Paul Smith,11/21/1971,Male,Musanze,2.5079E+11,RWF,2694324.24,"Internet Banking, Mobile Banking, USSD"
+40821,4.91989E+11,Emmanuel Fuller,5/7/1992,Female,Musanze,2.50776E+11,RWF,405710.64,"USSD, Internet Banking, Mobile Banking"
+61686,8.82192E+11,Paul Smith,8/19/1982,Male,Rubavu,2.50771E+11,RWF,4415754.53,USSD
+21284,8.98831E+11,Eric Bird,5/29/1956,Female,Huye,2.50715E+11,RWF,3679540.2,"Mobile Banking, Internet Banking, USSD"
+35696,7.92283E+11,Eric Gross,9/11/1952,Female,Gicumbi,2.50761E+11,RWF,1929463.37,"USSD, Internet Banking"
+21320,5.22141E+11,Jean Perez,7/21/1947,Female,Kayonza,2.50739E+11,RWF,874029.25,"Mobile Banking, Internet Banking, USSD"
+38315,6.25122E+11,Claude Melton,11/12/1998,Male,Kicukiro,2.50799E+11,RWF,331599.77,Mobile Banking
+91619,3.99387E+11,Emmanuel Boone,2/23/1956,Female,Rwamagana,2.50775E+11,RWF,89792.06,"Mobile Banking, Internet Banking, USSD"
+21027,4.90415E+11,Claude Reynolds,9/24/1952,Female,Gatsibo,2.50732E+11,RWF,4076737.29,"Mobile Banking, USSD"
+43781,1.33526E+11,Sandrine Peters,2/6/1962,Male,Kayonza,2.50779E+11,RWF,4721657.82,"USSD, Internet Banking, Mobile Banking"
+45028,6.75311E+11,Diane Davis,1/6/1979,Female,Kicukiro,2.50715E+11,RWF,3991720.62,USSD
+48931,4.04809E+11,Marie Nolan,5/8/1972,Female,Gasabo,2.50732E+11,RWF,81760.37,"Mobile Banking, Internet Banking"
+56511,5.98321E+11,Sandrine Taylor,12/3/1998,Female,Muhanga,2.50788E+11,RWF,4510571.88,"USSD, Internet Banking, Mobile Banking"
+43586,3.11662E+11,Beata Patel,11/19/1979,Male,Huye,2.50776E+11,RWF,2992841.62,"Internet Banking, USSD"
+87367,6.00984E+11,Alice Ramirez,5/29/1991,Male,Huye,2.5076E+11,RWF,3768713.33,Internet Banking
+31449,3.13277E+11,Esther Simmons,9/6/2003,Male,Karongi,2.50729E+11,RWF,1094639.25,"Internet Banking, USSD, Mobile Banking"
+39947,1.1938E+11,Alice Richardson,8/17/2005,Male,Kayonza,2.50735E+11,RWF,2785835.97,Internet Banking
+44712,5.24299E+11,Beata Lawson,10/12/1975,Female,Huye,2.50776E+11,RWF,2345732.64,"Mobile Banking, Internet Banking, USSD"
+48569,7.10895E+11,Samuel Shelton,5/6/1982,Female,Nyamasheke,2.50741E+11,RWF,2704853.17,"USSD, Mobile Banking, Internet Banking"
+48356,2.71398E+11,Chantal Benton,6/3/1990,Female,Muhanga,2.50771E+11,RWF,3524761.5,Mobile Banking
+61036,4.16194E+11,Jean Woods,9/14/1959,Female,Huye,2.5071E+11,RWF,1865474.54,"Internet Banking, Mobile Banking"
+66296,3.45613E+11,Paul Carlson,9/12/1979,Female,Nyarugenge,2.5072E+11,RWF,64606.46,USSD
+52499,7.33655E+11,Eric Rodriguez,5/7/1960,Male,Rwamagana,2.5076E+11,RWF,3086176.64,Mobile Banking
+37058,8.27101E+11,Josiane Mcgee,7/31/1968,Female,Rusizi,2.50732E+11,RWF,486022.56,USSD
+36318,2.44365E+11,Emmanuel Holt,12/22/1947,Female,Nyagatare,2.50799E+11,RWF,2312445.76,Internet Banking
+55069,9.1652E+11,Grace Stark,10/7/1968,Male,Musanze,2.50738E+11,RWF,2381800.47,"USSD, Internet Banking"
+74656,3.88458E+11,Sandrine Mcdonald,11/27/1957,Female,Musanze,2.50722E+11,RWF,843870.88,USSD
+37590,5.75518E+11,Sandrine Taylor,7/26/1953,Female,Kicukiro,2.50768E+11,RWF,4040205.59,USSD
+40975,6.09738E+11,Marie Tran,7/14/1980,Female,Rwamagana,2.50781E+11,RWF,1390394.64,"Mobile Banking, Internet Banking, USSD"
+64730,4.46248E+11,Emmanuel Stewart,11/10/1989,Male,Karongi,2.50751E+11,RWF,1169127.13,"USSD, Internet Banking"
+15075,7.05508E+11,Jean Taylor,5/25/1992,Female,Nyamasheke,2.50756E+11,RWF,1702815.71,Internet Banking
+92473,1.15398E+11,Eric Sanchez,1/14/1980,Male,Gicumbi,2.5072E+11,RWF,2410833.01,USSD
+94666,8.8072E+11,Eric Freeman,2/22/1946,Female,Nyagatare,2.50789E+11,RWF,791497.87,"Internet Banking, Mobile Banking"
+62884,9.08473E+11,Sandrine Lang,4/25/1992,Male,Rulindo,2.5077E+11,RWF,448991.75,"Mobile Banking, Internet Banking"
+23657,9.36861E+11,Claude Wright,12/21/1970,Male,Huye,2.50799E+11,RWF,3082720.18,"Mobile Banking, USSD, Internet Banking"
+93628,9.92639E+11,Innocent Martin,6/3/2002,Female,Gatsibo,2.50742E+11,RWF,2025519.98,USSD
+57783,8.11115E+11,Sandrine Duran,1/19/1951,Male,Huye,2.50711E+11,RWF,4413619.9,"Internet Banking, Mobile Banking, USSD"
+68077,3.44752E+11,Grace Randolph,8/9/1977,Female,Nyamasheke,2.50752E+11,RWF,825542.56,"Mobile Banking, USSD"
+42221,6.10509E+11,Sandrine Reynolds,8/15/1996,Male,Gatsibo,2.50722E+11,RWF,771769.86,Internet Banking
+13291,7.91162E+11,Marie Garcia,11/3/1972,Female,Nyarugenge,2.50785E+11,RWF,2360640.4,Mobile Banking
+30536,5.2871E+11,Patrick Lopez,4/10/1960,Female,Rulindo,2.50787E+11,RWF,4254718.59,"Mobile Banking, USSD, Internet Banking"
+81534,4.82171E+11,Grace Davis,6/19/1961,Male,Gasabo,2.50744E+11,RWF,2397868.93,USSD
+63773,4.85009E+11,Patrick Perez,4/14/2001,Female,Nyagatare,2.50761E+11,RWF,4131627.63,"USSD, Internet Banking, Mobile Banking"
+53457,4.2529E+11,Chantal Bonilla,10/8/1947,Female,Nyagatare,2.50732E+11,RWF,3266066.96,Internet Banking
+91719,9.14521E+11,Diane Berg,2/17/1991,Male,Rubavu,2.50796E+11,RWF,853817.06,"Internet Banking, Mobile Banking"
+31041,4.90557E+11,Jean Bryant,4/18/2000,Male,Muhanga,2.50762E+11,RWF,4124824.43,"Mobile Banking, Internet Banking"
+56722,8.60778E+11,Didier Warren,5/23/1977,Male,Bugesera,2.50769E+11,RWF,2897158.29,"Internet Banking, USSD, Mobile Banking"
+45155,7.51491E+11,Claude Adams,2/16/1945,Female,Gasabo,2.50779E+11,RWF,849449.88,USSD
+71664,9.82377E+11,Esther Jenkins,1/20/2007,Male,Rusizi,2.50781E+11,RWF,147026.51,Internet Banking
+94133,6.68201E+11,Samuel Wilson,4/18/1990,Male,Gasabo,2.50786E+11,RWF,3043936.12,"Internet Banking, USSD"
+64036,9.09901E+11,Beata Jackson,1/5/2004,Female,Rwamagana,2.50757E+11,RWF,3405509.44,USSD
+18747,7.94498E+11,Marie Bell,9/28/1998,Female,Rusizi,2.50787E+11,RWF,2866105.1,"USSD, Mobile Banking"
+87485,7.74784E+11,Sandrine Davidson,2/4/1957,Male,Bugesera,2.50788E+11,RWF,2160801.36,"USSD, Mobile Banking"
+72066,9.38149E+11,Chantal Harris,10/25/2006,Male,Gicumbi,2.50756E+11,RWF,4345843.32,Internet Banking
+75189,9.15323E+11,Eric Knox,4/14/2000,Female,Ngoma,2.50753E+11,RWF,1145265.52,"Internet Banking, Mobile Banking, USSD"
+80659,1.67662E+11,Sandrine Salazar,3/17/2000,Male,Nyagatare,2.50742E+11,RWF,1888848.18,"Mobile Banking, USSD, Internet Banking"
+69554,3.86871E+11,Chantal Tucker,5/29/1974,Male,Muhanga,2.50772E+11,RWF,2764034.84,Internet Banking
+21666,7.09823E+11,Samuel Odonnell,10/15/1979,Female,Huye,2.50755E+11,RWF,1182698.34,"USSD, Mobile Banking"
+43945,9.52672E+11,Didier Rogers,9/2/2002,Female,Ngoma,2.50793E+11,RWF,2070348.85,USSD
+48511,4.2735E+11,Grace Evans,6/20/1986,Male,Kayonza,2.50794E+11,RWF,3211779.28,USSD
+43785,3.55447E+11,Emmanuel Marquez,10/17/1999,Male,Ngoma,2.50741E+11,RWF,2983261.27,Mobile Banking
+35164,9.04311E+11,Alice Perry,5/4/1986,Female,Gasabo,2.50767E+11,RWF,285254.84,"USSD, Internet Banking, Mobile Banking"
+92236,3.59942E+11,Josiane White,4/25/2006,Female,Ngoma,2.5074E+11,RWF,1425274.21,"Internet Banking, USSD, Mobile Banking"
+91782,3.62293E+11,Beata Bray,11/13/1958,Female,Karongi,2.50714E+11,RWF,2262087.02,"Mobile Banking, Internet Banking, USSD"
+77363,3.05163E+11,Chantal Benson,10/29/1978,Male,Kayonza,2.50799E+11,RWF,2137036.67,"Internet Banking, Mobile Banking, USSD"
+64433,1.05589E+11,Sandrine Silva,9/19/1972,Female,Rusizi,2.50727E+11,RWF,33480.82,Mobile Banking
+37412,5.4648E+11,Eric Nelson,1/7/1983,Male,Ngoma,2.50742E+11,RWF,4258232.13,"USSD, Mobile Banking"
+32059,2.00732E+11,Esther Mcbride,8/23/2007,Female,Rusizi,2.5073E+11,RWF,3361924.11,Internet Banking
+90242,5.49552E+11,Ange Wilson,1/20/1976,Male,Muhanga,2.50732E+11,RWF,1082863.18,"Internet Banking, Mobile Banking"
+73952,9.70849E+11,Fabrice Maynard,8/28/1966,Female,Huye,2.50778E+11,RWF,2922717.69,"Internet Banking, USSD, Mobile Banking"
+66421,6.84159E+11,Grace Edwards,8/5/2004,Male,Musanze,2.50772E+11,RWF,4060876.29,"USSD, Internet Banking"
+81722,6.31789E+11,Fabrice Hernandez,6/16/1956,Female,Muhanga,2.5076E+11,RWF,708602.97,"USSD, Mobile Banking, Internet Banking"
+69588,8.64704E+11,Alice Ewing,11/12/1950,Male,Huye,2.50742E+11,RWF,1811087.49,"Internet Banking, Mobile Banking"
+42643,8.27746E+11,Jean Aguilar,7/31/2000,Female,Nyamasheke,2.50727E+11,RWF,1853514.8,Internet Banking
+77183,6.92799E+11,Eric Marks,8/24/1957,Female,Nyamasheke,2.50742E+11,RWF,4340911.69,"Mobile Banking, USSD, Internet Banking"
+20626,8.651E+11,Alice Jones,12/21/1971,Male,Muhanga,2.5074E+11,RWF,1553892.53,"Internet Banking, Mobile Banking"
+39032,7.25907E+11,Sandrine Collins,6/27/1968,Female,Kayonza,2.5071E+11,RWF,910856.02,"USSD, Mobile Banking, Internet Banking"
+80214,5.45563E+11,Diane Bryant,4/6/1990,Female,Rusizi,2.50724E+11,RWF,3861052.42,Mobile Banking
+25496,9.39939E+11,Sandrine Carrillo,10/18/1998,Male,Gasabo,2.50715E+11,RWF,1019171.61,"Mobile Banking, USSD, Internet Banking"
+45553,2.23828E+11,Josiane Blair,11/26/1986,Male,Ngoma,2.50712E+11,RWF,1289068.71,Internet Banking
+83494,7.62235E+11,Ange Ramirez,3/31/1970,Female,Rwamagana,2.50715E+11,RWF,607395.88,Internet Banking
+55338,3.4298E+11,Emmanuel Dixon,1/30/1989,Male,Rubavu,2.50752E+11,RWF,4969879.9,"USSD, Mobile Banking, Internet Banking"
+30783,8.10045E+11,Patrick Hughes,6/26/1993,Male,Ngoma,2.50731E+11,RWF,4092017.56,Mobile Banking
+50129,4.88912E+11,Beata Little,3/12/1997,Male,Gasabo,2.50721E+11,RWF,2457989.55,USSD
+34671,5.87445E+11,Eric Wallace,8/16/2005,Female,Rwamagana,2.50727E+11,RWF,2814413.11,"Mobile Banking, Internet Banking"
+84129,9.30805E+11,Emmanuel Weber,10/13/1951,Male,Huye,2.50788E+11,RWF,3502925.13,"USSD, Mobile Banking"
+39742,7.45664E+11,Esther Lamb,8/22/1982,Male,Huye,2.50764E+11,RWF,2015791.99,"USSD, Internet Banking, Mobile Banking"
+75368,5.14624E+11,Marie Scott,11/10/1949,Female,Gicumbi,2.50742E+11,RWF,2052681.39,USSD
+26129,3.55634E+11,Beata Sanchez,9/7/1956,Male,Huye,2.50716E+11,RWF,3940403.34,"USSD, Mobile Banking, Internet Banking"
+90053,8.60878E+11,Jean Lewis,7/17/1987,Male,Nyagatare,2.50798E+11,RWF,412022.43,"Mobile Banking, USSD"
+26607,5.72934E+11,Diane Allen,11/21/1969,Female,Rubavu,2.50714E+11,RWF,1175084.48,"Internet Banking, USSD"
+10219,7.50162E+11,Innocent Wright,12/26/1956,Female,Nyarugenge,2.50777E+11,RWF,1809124.68,Internet Banking
+14747,5.536E+11,Josiane Mcconnell,10/20/1948,Male,Huye,2.50782E+11,RWF,2164935.44,"Mobile Banking, USSD"
+92932,6.85803E+11,Samuel Ayala,9/23/2003,Male,Karongi,2.5079E+11,RWF,3435537.96,"USSD, Mobile Banking"
+86800,4.15183E+11,Claude Daniels,9/30/1946,Female,Rubavu,2.50751E+11,RWF,1759284.03,"USSD, Mobile Banking"
+66126,8.9894E+11,Claude Jennings,4/10/1998,Male,Rwamagana,2.50735E+11,RWF,594673.01,Internet Banking
+71213,1.76186E+11,Claude Coleman,7/22/2006,Male,Muhanga,2.50773E+11,RWF,3197634.3,"USSD, Internet Banking"
+45321,9.68629E+11,Grace Allen,4/17/1982,Female,Kicukiro,2.5075E+11,RWF,1692530.79,Internet Banking
+39658,1.1383E+11,Alice Martinez,5/5/2000,Female,Karongi,2.50759E+11,RWF,3360730.31,"Mobile Banking, USSD"
+75742,3.30824E+11,Claude Jones,1/28/1973,Male,Musanze,2.50794E+11,RWF,2120062.05,"Internet Banking, USSD"
+71642,6.60516E+11,Marie Long,6/9/1991,Female,Gatsibo,2.50789E+11,RWF,1090688.1,"USSD, Internet Banking"
+47838,8.16301E+11,Esther Gillespie,11/26/1955,Male,Bugesera,2.50712E+11,RWF,2170897.74,"Mobile Banking, USSD, Internet Banking"
+89099,2.60724E+11,Josiane Barnes,12/13/1993,Female,Rusizi,2.50775E+11,RWF,2711636.41,"USSD, Mobile Banking, Internet Banking"
+56870,6.96074E+11,Emmanuel King,12/5/1999,Female,Muhanga,2.50759E+11,RWF,3531538.56,"Mobile Banking, USSD"
+18126,9.66518E+11,Chantal Patrick,3/26/1953,Male,Huye,2.50769E+11,RWF,1263160.42,"Mobile Banking, USSD"
+64536,6.86404E+11,Didier Gillespie,10/15/1985,Male,Karongi,2.50763E+11,RWF,4460355.13,USSD
+76786,5.70781E+11,Chantal Jones,4/21/1987,Male,Rusizi,2.50755E+11,RWF,951789.76,Mobile Banking
+89755,7.36194E+11,Alice Duke,3/22/1963,Male,Muhanga,2.50766E+11,RWF,1358326.37,"Mobile Banking, Internet Banking, USSD"
+59789,7.04839E+11,Josiane Carson,9/26/1983,Male,Gicumbi,2.50767E+11,RWF,907824.47,"Mobile Banking, Internet Banking, USSD"
+29952,8.09864E+11,Chantal Hall,1/19/1966,Female,Huye,2.50765E+11,RWF,4165664.08,"Internet Banking, USSD, Mobile Banking"
+17679,3.21066E+11,Eric Coleman,2/24/1963,Male,Nyamasheke,2.50734E+11,RWF,3163645.29,"Mobile Banking, USSD, Internet Banking"
+63640,6.0353E+11,Ange Griffin,12/23/1961,Male,Ngoma,2.50766E+11,RWF,695006.16,"USSD, Internet Banking"
+32517,3.99269E+11,Chantal James,7/13/1954,Female,Karongi,2.50787E+11,RWF,4946403.25,"Mobile Banking, Internet Banking"
+60691,4.03136E+11,Jean Carter,12/10/1997,Male,Nyagatare,2.50778E+11,RWF,918928.95,Mobile Banking
+86201,4.20427E+11,Sandrine Pearson,2/19/1968,Male,Nyarugenge,2.5073E+11,RWF,537163.59,Mobile Banking
+61973,3.87888E+11,Esther Hodges,10/21/1970,Female,Kayonza,2.50777E+11,RWF,4794459.33,"Internet Banking, Mobile Banking"
+87275,9.50448E+11,Jean Braun,3/25/1989,Male,Kayonza,2.50718E+11,RWF,2130806.58,Mobile Banking
+53889,9.6271E+11,Marie Ortega,1/27/1955,Male,Nyagatare,2.50779E+11,RWF,899014.52,Mobile Banking
+87384,4.49467E+11,Diane Lyons,10/2/2007,Female,Rubavu,2.50731E+11,RWF,2300632.55,"Internet Banking, USSD, Mobile Banking"
+75691,9.34289E+11,Samuel Martin,2/20/1990,Male,Bugesera,2.50785E+11,RWF,4551245.13,"Mobile Banking, Internet Banking"
+37388,6.26004E+11,Alice Hoover,9/10/1958,Female,Nyagatare,2.50794E+11,RWF,1275631.85,Internet Banking
+69759,3.99994E+11,Ange Jones,7/30/1976,Female,Kicukiro,2.50753E+11,RWF,1227880.12,"USSD, Mobile Banking, Internet Banking"
+98146,6.4213E+11,Beata Odom,9/12/1965,Female,Kayonza,2.50772E+11,RWF,3305980.57,"Internet Banking, Mobile Banking, USSD"
+33079,4.45586E+11,Patrick Barajas,9/12/1970,Female,Nyagatare,2.50785E+11,RWF,2851634.6,Internet Banking
+47729,2.36536E+11,Patrick Kennedy,2/18/1955,Male,Gasabo,2.50734E+11,RWF,614368.71,"Mobile Banking, USSD"
+93701,1.20674E+11,Paul Sullivan,12/15/1987,Male,Karongi,2.50759E+11,RWF,2876604.3,USSD
+71133,1.68228E+11,Samuel Hoover,1/30/2003,Female,Nyagatare,2.50764E+11,RWF,1780277.65,"Internet Banking, USSD"
+76651,9.26897E+11,Claude Gonzales,6/26/1949,Male,Ngoma,2.50779E+11,RWF,4180119.86,Internet Banking
+20379,4.61956E+11,Didier Hogan,12/6/1998,Male,Gatsibo,2.50757E+11,RWF,1046382.42,Internet Banking
+18638,1.76902E+11,Didier Wilson,12/13/1952,Female,Rulindo,2.50711E+11,RWF,3245974.45,"Mobile Banking, USSD, Internet Banking"
+79331,4.33805E+11,Jean Morgan,9/30/2005,Female,Gatsibo,2.50757E+11,RWF,2429811.77,"Mobile Banking, USSD"
+72303,8.60823E+11,Didier Rodriguez,1/26/1988,Female,Bugesera,2.50784E+11,RWF,4466302.37,"Mobile Banking, Internet Banking"
+35815,4.17459E+11,Alice Smith,2/18/1953,Male,Gasabo,2.50721E+11,RWF,2679914.29,"Internet Banking, Mobile Banking"
+88206,5.87309E+11,Eric Gay,4/26/1977,Female,Kicukiro,2.50726E+11,RWF,1549052.84,USSD
+81076,5.792E+11,Beata Odonnell,10/11/2001,Male,Musanze,2.50739E+11,RWF,1851505.71,"Mobile Banking, USSD"
+22273,4.95943E+11,Didier Singh,9/28/1984,Male,Nyamasheke,2.50747E+11,RWF,4787303.7,"USSD, Internet Banking"
+73381,3.91134E+11,Esther Gutierrez,2/19/1970,Male,Huye,2.5079E+11,RWF,4143144.41,"Internet Banking, USSD"
+23423,3.28955E+11,Ange Clark,4/16/1973,Male,Kicukiro,2.50782E+11,RWF,2889127.04,USSD
+90797,1.32116E+11,Fabrice Taylor,5/7/1960,Male,Gatsibo,2.50779E+11,RWF,2728675.57,Internet Banking
+71890,6.88223E+11,Esther Farrell,11/21/1947,Male,Ngoma,2.50716E+11,RWF,2942990.62,"USSD, Mobile Banking, Internet Banking"
+32244,4.03679E+11,Josiane Sherman,7/26/1985,Male,Musanze,2.50725E+11,RWF,1952180.01,"Internet Banking, Mobile Banking, USSD"
+62752,6.26224E+11,Ange Munoz,5/28/2007,Female,Nyamasheke,2.50778E+11,RWF,796788.33,"Mobile Banking, USSD"
+49974,6.6574E+11,Grace Allen,8/28/1949,Female,Bugesera,2.50726E+11,RWF,1902660.42,Internet Banking
+11999,7.64718E+11,Marie Becker,8/14/1962,Male,Gasabo,2.50751E+11,RWF,3418478.11,Internet Banking
+85759,3.16757E+11,Sandrine Bass,5/4/1946,Male,Rubavu,2.50788E+11,RWF,2637123.19,Internet Banking
+44708,1.63201E+11,Diane Russo,8/22/2001,Male,Rwamagana,2.50759E+11,RWF,3346754.87,"USSD, Internet Banking"
+22517,6.50401E+11,Fabrice Jensen,2/23/1978,Female,Musanze,2.50787E+11,RWF,3906435.22,"Internet Banking, Mobile Banking, USSD"
+11524,6.48421E+11,Ange Harris,5/17/1959,Male,Huye,2.50791E+11,RWF,3773655.01,"USSD, Mobile Banking, Internet Banking"
+93437,2.07285E+11,Paul Wilson,12/12/1968,Female,Musanze,2.50778E+11,RWF,2471278.18,"Internet Banking, Mobile Banking"
+24956,7.27853E+11,Jean Schmidt,7/29/1994,Female,Gasabo,2.50749E+11,RWF,2527178.11,"USSD, Mobile Banking, Internet Banking"
+15939,6.23447E+11,Beata Henry,12/9/1947,Female,Gatsibo,2.50797E+11,RWF,961826.95,"USSD, Internet Banking"
+86082,9.54443E+11,Emmanuel Savage,8/12/1951,Female,Huye,2.508E+11,RWF,1622948.71,Internet Banking
+82862,8.03339E+11,Samuel Sanford,9/5/1971,Female,Nyarugenge,2.50769E+11,RWF,1478684.83,"USSD, Internet Banking"
+16620,9.58867E+11,Eric Moore,1/13/1989,Male,Karongi,2.50744E+11,RWF,445957.62,"Mobile Banking, USSD"
+94364,2.18431E+11,Marie Henry,9/26/1992,Female,Kayonza,2.50793E+11,RWF,2081767.16,"USSD, Internet Banking"
+68407,8.08768E+11,Marie Brady,12/26/1989,Male,Nyagatare,2.50714E+11,RWF,107209.26,"Mobile Banking, Internet Banking"
+92910,6.73574E+11,Marie Tran,2/7/1966,Female,Nyarugenge,2.50755E+11,RWF,27261.24,"Mobile Banking, Internet Banking"
+16524,8.93525E+11,Jean Guzman,3/21/1996,Female,Muhanga,2.50755E+11,RWF,3481808.3,"USSD, Internet Banking"
+45395,4.81094E+11,Innocent Brewer,11/23/1968,Female,Musanze,2.50775E+11,RWF,2394316.48,"Mobile Banking, Internet Banking, USSD"
+48622,4.30873E+11,Emmanuel Meyers,8/14/1971,Male,Muhanga,2.50716E+11,RWF,4453998.42,"USSD, Internet Banking, Mobile Banking"
+15786,6.54929E+11,Claude Harris,11/18/1957,Male,Kayonza,2.50747E+11,RWF,1753336.13,"USSD, Mobile Banking"
+68189,1.38307E+11,Claude Rodgers,3/23/1989,Male,Kayonza,2.50794E+11,RWF,1643806.78,"Mobile Banking, Internet Banking"
+13874,4.0495E+11,Grace Avery,2/1/1948,Female,Kayonza,2.50754E+11,RWF,2080967.21,Mobile Banking
+14399,9.48768E+11,Ange Mueller,3/21/1961,Male,Gatsibo,2.5079E+11,RWF,4571521.91,USSD
+56229,4.62222E+11,Innocent Smith,10/5/1953,Female,Rwamagana,2.50737E+11,RWF,917357.91,"Mobile Banking, USSD, Internet Banking"
+79672,6.2667E+11,Samuel Foster,9/23/1967,Male,Kayonza,2.50763E+11,RWF,2821653.17,"USSD, Mobile Banking"
+34075,9.41554E+11,Marie Campbell,12/21/1947,Female,Rubavu,2.50786E+11,RWF,2809929.28,"Internet Banking, USSD"
+17487,5.06078E+11,Eric Acosta,10/9/1967,Female,Muhanga,2.508E+11,RWF,3128796.84,"Mobile Banking, Internet Banking, USSD"
+90378,4.78713E+11,Alice Cox,6/28/1987,Male,Muhanga,2.50791E+11,RWF,4097239.32,"USSD, Mobile Banking"
+75361,9.63437E+11,Grace Jordan,8/28/1989,Female,Muhanga,2.50729E+11,RWF,3774529.29,Mobile Banking
+28595,4.96887E+11,Claude Mills,1/13/1974,Male,Bugesera,2.50723E+11,RWF,4129234.59,"Mobile Banking, USSD"
+54962,6.69378E+11,Eric Mitchell,9/9/1964,Male,Karongi,2.50791E+11,RWF,4219816.88,"Mobile Banking, USSD, Internet Banking"
+45025,6.42467E+11,Paul Moore,12/14/1999,Male,Rusizi,2.50769E+11,RWF,348299.62,USSD
+27545,9.06896E+11,Paul Mckay,2/7/1999,Female,Musanze,2.50788E+11,RWF,935017.91,Internet Banking
+44569,1.10645E+11,Emmanuel Wells,11/26/1983,Male,Gatsibo,2.50724E+11,RWF,3945377.33,"Mobile Banking, Internet Banking"
+19402,8.86791E+11,Innocent Gomez,8/27/1999,Male,Rulindo,2.50769E+11,RWF,2786843.84,"Mobile Banking, USSD, Internet Banking"
+23598,1.34561E+11,Diane Sanchez,11/6/1958,Female,Bugesera,2.50771E+11,RWF,4220078.24,"Mobile Banking, USSD, Internet Banking"
+41201,1.45188E+11,Sandrine Bailey,12/31/1966,Female,Muhanga,2.50778E+11,RWF,4774897.16,"Mobile Banking, USSD"
+46284,4.06116E+11,Ange Simmons,7/11/2006,Male,Rubavu,2.50787E+11,RWF,1325325.52,Mobile Banking
+52617,2.54858E+11,Alice Flores,11/24/1971,Female,Rulindo,2.50726E+11,RWF,333134.98,Mobile Banking
+99387,1.50669E+11,Marie Ramirez,9/12/1974,Female,Musanze,2.50719E+11,RWF,270212.09,"Mobile Banking, USSD, Internet Banking"
+98946,3.72415E+11,Grace Ramsey,10/7/1971,Female,Gatsibo,2.50729E+11,RWF,2900024.97,"Internet Banking, Mobile Banking"
+83284,9.26236E+11,Claude Smith,12/30/1960,Female,Kayonza,2.50796E+11,RWF,688860.85,"Internet Banking, USSD, Mobile Banking"
+99945,1.33311E+11,Chantal Pitts,10/10/1975,Male,Kicukiro,2.50763E+11,RWF,3312035.52,"Internet Banking, USSD"
+54831,2.47182E+11,Ange Zavala,8/31/1953,Male,Kayonza,2.50716E+11,RWF,1923254.35,"Mobile Banking, USSD"
+37144,4.80386E+11,Emmanuel Jones,5/7/1952,Female,Kicukiro,2.50766E+11,RWF,630474.67,"USSD, Mobile Banking"
+32544,6.84962E+11,Patrick Smith,2/20/1966,Female,Rwamagana,2.50778E+11,RWF,2420259.01,Internet Banking
+39728,3.87139E+11,Fabrice Jones,9/25/1961,Male,Nyarugenge,2.50722E+11,RWF,4497943.31,"Internet Banking, USSD, Mobile Banking"
+14497,3.35359E+11,Jean Turner,7/11/1996,Male,Gatsibo,2.50791E+11,RWF,2446838.85,"Internet Banking, Mobile Banking"
+37755,9.73386E+11,Fabrice Rush,7/9/1953,Female,Nyamasheke,2.50739E+11,RWF,4952193.6,"USSD, Internet Banking"
+54512,8.87145E+11,Esther Miller,4/6/1992,Male,Kayonza,2.5076E+11,RWF,2454818.79,Mobile Banking
+97610,8.34814E+11,Didier Brown,5/6/1972,Male,Rwamagana,2.50779E+11,RWF,1071280.16,"Mobile Banking, USSD"
+13962,5.52681E+11,Diane Nelson,12/20/1972,Female,Rubavu,2.50791E+11,RWF,902562.06,"Internet Banking, USSD"
+92453,7.12866E+11,Didier Nichols,11/24/1969,Female,Ngoma,2.50733E+11,RWF,4850166.01,Internet Banking
+92884,2.91294E+11,Alice Miller,3/6/1948,Male,Gasabo,2.50726E+11,RWF,4582864.71,"Internet Banking, Mobile Banking, USSD"
+52759,4.9537E+11,Fabrice Bennett,3/30/1982,Female,Kicukiro,2.50769E+11,RWF,313936.28,USSD
+18141,1.30519E+11,Sandrine Snow,3/26/1964,Male,Karongi,2.50715E+11,RWF,4761896.41,Mobile Banking
+85573,2.24325E+11,Innocent Gonzalez,9/12/1996,Male,Kayonza,2.50723E+11,RWF,4945874.38,"Internet Banking, USSD, Mobile Banking"
+64818,8.46534E+11,Innocent Mercado,6/9/1950,Female,Ngoma,2.50782E+11,RWF,4395423.26,Internet Banking
+74147,3.74108E+11,Emmanuel Watson,6/1/1951,Male,Kicukiro,2.50787E+11,RWF,2876231.11,USSD
+12056,5.08737E+11,Emmanuel Morrison,5/22/1962,Female,Kicukiro,2.50742E+11,RWF,923432.02,"USSD, Mobile Banking, Internet Banking"
+64461,2.92954E+11,Chantal Thomas,1/20/2007,Female,Nyamasheke,2.50714E+11,RWF,4285421.5,Mobile Banking
+99097,1.16678E+11,Beata Fowler,10/16/1960,Male,Kayonza,2.50769E+11,RWF,4488399.64,"Internet Banking, Mobile Banking"
+81483,5.71241E+11,Patrick Taylor,9/15/2003,Female,Musanze,2.50762E+11,RWF,3616711.5,Internet Banking
+42786,6.03018E+11,Marie Howard,6/13/1978,Male,Huye,2.50757E+11,RWF,2363191.55,USSD
+88837,8.69425E+11,Ange Hill,4/24/1987,Male,Rulindo,2.50777E+11,RWF,2999402.55,Mobile Banking
+60535,6.14102E+11,Diane Miller,5/27/1996,Female,Nyamasheke,2.50796E+11,RWF,416875.99,USSD
+32698,9.06199E+11,Ange Hawkins,9/7/1979,Male,Nyamasheke,2.50791E+11,RWF,698978.41,"Mobile Banking, Internet Banking"
+33968,8.60726E+11,Paul Garcia,8/31/1993,Male,Rwamagana,2.50763E+11,RWF,3810142.67,"Mobile Banking, USSD, Internet Banking"
+17829,4.86333E+11,Marie Guzman,4/29/1951,Female,Nyamasheke,2.50789E+11,RWF,545203.08,"Mobile Banking, USSD"
+86991,2.04914E+11,Beata Peterson,7/8/1994,Male,Ngoma,2.50794E+11,RWF,2080025.05,"Mobile Banking, USSD, Internet Banking"
+30287,9.97668E+11,Esther Martin,7/19/2001,Female,Kicukiro,2.5079E+11,RWF,1845885.97,Mobile Banking
+71746,9.13891E+11,Fabrice Hughes,10/13/1970,Female,Rusizi,2.50775E+11,RWF,3207704.63,"Internet Banking, USSD"
+11765,9.13664E+11,Sandrine Flowers,4/28/1984,Male,Rubavu,2.50737E+11,RWF,2381489.46,USSD
+30204,3.51951E+11,Grace Klein,1/20/1966,Female,Bugesera,2.50762E+11,RWF,4092501.74,USSD
+72144,2.15533E+11,Didier Humphrey,9/29/1946,Female,Gatsibo,2.50754E+11,RWF,4547426.86,Mobile Banking
+76386,4.15917E+11,Innocent Johnson,8/2/1972,Female,Muhanga,2.50775E+11,RWF,587738.79,"USSD, Mobile Banking"
+73441,4.26221E+11,Chantal Edwards,3/26/1964,Female,Muhanga,2.50745E+11,RWF,3456793.04,"USSD, Internet Banking, Mobile Banking"
+82455,3.42053E+11,Innocent Mccarthy,10/15/1970,Female,Nyarugenge,2.50753E+11,RWF,2757839.82,USSD
+83955,1.56898E+11,Josiane Hudson,7/25/1960,Male,Rubavu,2.50741E+11,RWF,1658069.01,"Mobile Banking, USSD"
+71569,7.33353E+11,Jean Mccall,4/26/1985,Female,Rusizi,2.50729E+11,RWF,1462671.7,"Internet Banking, Mobile Banking, USSD"
+45946,3.29929E+11,Samuel Brooks,12/8/1965,Female,Karongi,2.50774E+11,RWF,3769865.63,USSD
+30606,1.16573E+11,Fabrice Wagner,2/10/1998,Female,Gicumbi,2.50743E+11,RWF,2471172.34,"Mobile Banking, Internet Banking, USSD"
+43251,7.23259E+11,Beata Steele,12/18/1964,Female,Kicukiro,2.50794E+11,RWF,1748493.98,"Internet Banking, Mobile Banking"
+82904,8.96779E+11,Innocent Cook,3/22/1996,Female,Nyarugenge,2.50797E+11,RWF,3182738.22,"USSD, Internet Banking, Mobile Banking"
+64774,5.46306E+11,Alice Mullen,2/4/1945,Female,Huye,2.50751E+11,RWF,3712814.9,Mobile Banking
+99454,7.81416E+11,Innocent Pham,11/28/1979,Male,Bugesera,2.50724E+11,RWF,4882960.47,USSD
+25586,6.40398E+11,Sandrine Lee,11/12/1978,Female,Nyarugenge,2.50795E+11,RWF,3526365.54,"USSD, Internet Banking, Mobile Banking"
+52893,1.35254E+11,Sandrine Summers,9/21/1965,Female,Huye,2.50788E+11,RWF,1489435.98,Mobile Banking
+23325,2.38487E+11,Claude Gutierrez,3/22/1985,Male,Huye,2.50721E+11,RWF,95072.96,USSD
+75160,2.86564E+11,Samuel Watson,8/31/1966,Male,Rwamagana,2.50799E+11,RWF,695025.76,"USSD, Mobile Banking, Internet Banking"
+33453,8.08998E+11,Ange Taylor,6/4/2004,Male,Rubavu,2.5071E+11,RWF,2237262.17,"Internet Banking, Mobile Banking"
+46971,1.36069E+11,Josiane Campbell,3/19/1965,Male,Rubavu,2.50751E+11,RWF,1935199.61,USSD
+44544,6.05209E+11,Marie Zimmerman,8/27/1975,Female,Kayonza,2.5071E+11,RWF,4622649.66,"Mobile Banking, USSD, Internet Banking"

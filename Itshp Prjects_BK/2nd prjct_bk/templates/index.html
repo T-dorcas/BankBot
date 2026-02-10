@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank of Kigali Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>Bank of Kigali Chatbot</h1>
+        </div>
+        <div class="chat-messages" id="chat-messages">
+            {% for message in session.get('messages', []) %}
+            <div class="message {{ 'bot' if message.sender == 'bot' else 'user' }}">
+                <div class="message-content">{{ message.text | replace('\n', '<br>') | safe }}</div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="chat-input">
+            <form id="chat-form">
+                <input type="text" id="message-input" placeholder="Type your message..." required>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

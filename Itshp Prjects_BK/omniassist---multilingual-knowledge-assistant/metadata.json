@@ -1,0 +1,7 @@
+{
+  "name": "OmniAssist - Multilingual Knowledge Assistant",
+  "description": "A sophisticated AI assistant that allows you to upload any document or image to create a custom knowledge base and chat about it in English or French.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
