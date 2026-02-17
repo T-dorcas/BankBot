@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, session, jsonify
 import pandas as pd
 import random
+import re
 import time
 from google import genai
 from google.genai import types
@@ -21,9 +22,16 @@ client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
 # Path to client data CSV
 CSV_PATH = os.path.join(os.path.dirname(__file__), '..', 'Clients.csv')
 
+# Path to FAQ data CSV
+FAQ_CSV_PATH = os.path.join(os.path.dirname(__file__), '..', 'faq_data_all1.csv')
+
 def load_clients():
     """Reload CSV each time so changes are picked up without restarting the server."""
     return pd.read_csv(CSV_PATH, encoding='utf-8-sig')
+
+def load_faq():
+    """Load FAQ data from CSV."""
+    return pd.read_csv(FAQ_CSV_PATH, encoding='utf-8-sig')
 
 # System prompt — Gemini finds BK info by itself via Google Search
 BK_SYSTEM_PROMPT = """You are a helpful and professional Bank of Kigali (BK) customer service chatbot.
@@ -85,6 +93,65 @@ Respond helpfully and accurately."""
                 return f"Error: {error_msg}\n\nType 'menu' to go back."
     
     return "You've hit the API rate limit. Please wait a moment and try again, or type 'menu'."
+
+
+def match_faq(user_complaint, language):
+    """Use Gemini to match a user complaint to the closest FAQ entry and return the answer."""
+    faq_df = load_faq()
+    filtered = faq_df[faq_df['Language'].str.strip().str.lower() == language.lower()]
+
+    if filtered.empty:
+        return None
+
+    # Build a numbered list of FAQ questions for Gemini to choose from
+    faq_list = ""
+    for idx, row in filtered.iterrows():
+        faq_list += f"[{idx}] Category: {row['Category']} | Q: {row['Question']}\n"
+
+    prompt = f"""You are a Bank of Kigali FAQ matching assistant.
+A customer has a complaint or question. Match it to the most relevant FAQ below.
+
+CUSTOMER MESSAGE ({language}): "{user_complaint}"
+
+AVAILABLE FAQs:
+{faq_list}
+
+RULES:
+- If one of the FAQs clearly matches the customer's intent, reply with ONLY the index number in brackets, e.g. [5]
+- If NO FAQ is relevant, reply with exactly: NO_MATCH
+- Do NOT add any other text."""
+
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt
+            )
+            result = response.text.strip()
+
+            if "NO_MATCH" in result:
+                return None
+
+            # Extract the index from the response like [5]
+            match = re.search(r'\[(\d+)\]', result)
+            if match:
+                matched_idx = int(match.group(1))
+                if matched_idx in filtered.index:
+                    row = faq_df.loc[matched_idx]
+                    return f"{row['Category']}\n\n{row['Answer']}"
+
+            return None
+
+        except Exception as e:
+            error_msg = str(e)
+            print(f"FAQ match error (attempt {attempt + 1}/3): {error_msg}")
+            if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                time.sleep(3 * (attempt + 1))
+                continue
+            else:
+                return None
+
+    return None
 
 
 def get_menu_text():
@@ -186,16 +253,15 @@ def chat():
             elif intent == 'contact':
                 messages.append({
                     "text": (
-                        "You can reach Bank of Kigali customer service through:\n\n"
-                        "• Call: (+250) 788 143 000\n"
-                        "• Email: info@bk.rw\n"
-                        "• Website: https://www.bk.rw\n"
-                        "• Visit any BK branch (Mon-Fri 8AM-5PM, Sat 8AM-12PM)\n\n"
-                        "Type 'menu' to go back to the main menu."
+                        "I'd be happy to help! First, please choose your preferred language:\n\n"
+                        "1️⃣  English\n"
+                        "2️⃣  French\n"
+                        "3️⃣  Kinyarwanda\n\n"
+                        "Type the number or the language name."
                     ),
                     "sender": "bot"
                 })
-                session['step'] = 'general_query'
+                session['step'] = 'faq_language'
 
             elif intent == 'general_query':
                 # If user just typed "2", ask what they want to know
@@ -234,6 +300,79 @@ def chat():
                 reply += "\n\n Type 'menu' to see options or keep asking questions!"
                 messages.append({"text": reply, "sender": "bot"})
                 session['step'] = 'general_query'
+
+        # ─── FAQ: LANGUAGE SELECTION ──────────────────────────
+        elif step == 'faq_language':
+            lower = user_input.lower().strip()
+            lang_map = {
+                '1': 'English', '1.': 'English', 'english': 'English', 'en': 'English',
+                '2': 'French', '2.': 'French', 'french': 'French', 'fr': 'French', 'français': 'French',
+                '3': 'Kinyarwanda', '3.': 'Kinyarwanda', 'kinyarwanda': 'Kinyarwanda', 'kiny': 'Kinyarwanda', 'rw': 'Kinyarwanda',
+            }
+            chosen_lang = lang_map.get(lower)
+
+            if chosen_lang:
+                session['faq_language'] = chosen_lang
+                prompts = {
+                    'English': "Great! Please describe your complaint or question and I'll find an answer for you.",
+                    'French': "Très bien! Veuillez décrire votre plainte ou question et je trouverai une réponse pour vous.",
+                    'Kinyarwanda': "Byiza! Nyamuneka sobanura ikibazo cyawe kandi nzakushakira igisubizo.",
+                }
+                messages.append({"text": prompts[chosen_lang], "sender": "bot"})
+                session['step'] = 'faq_complaint'
+            else:
+                messages.append({
+                    "text": "Please choose a valid option:\n1️⃣ English\n2️⃣ French\n3️⃣ Kinyarwanda",
+                    "sender": "bot"
+                })
+
+        # ─── FAQ: COMPLAINT MATCHING ──────────────────────────
+        elif step == 'faq_complaint':
+            intent = detect_intent(user_input)
+            if intent == 'menu':
+                messages.append({"text": get_menu_text(), "sender": "bot"})
+                session['step'] = 'menu'
+            else:
+                language = session.get('faq_language', 'English')
+                answer = match_faq(user_input, language)
+
+                if answer:
+                    answer += "\n\nAsk another question or type 'menu' to go back."
+                    messages.append({"text": answer, "sender": "bot"})
+                else:
+                    no_match = {
+                        'English': (
+                            "I couldn't find a matching answer in our FAQ.\n"
+                            "You can reach Bank of Kigali customer service directly:\n\n"
+                            "• Call: (+250) 788 143 000\n"
+                            "• Email: info@bk.rw\n"
+                            "• Website: https://www.bk.rw\n"
+                            "• Visit any BK branch (Mon-Fri 8AM-5PM, Sat 8AM-12PM)\n\n"
+                            "Type 'menu' to go back to the main menu."
+                        ),
+                        'French': (
+                            "Je n'ai pas trouvé de réponse correspondante dans notre FAQ.\n"
+                            "Vous pouvez contacter le service client de la Banque de Kigali :\n\n"
+                            "• Appel : (+250) 788 143 000\n"
+                            "• Email : info@bk.rw\n"
+                            "• Site web : https://www.bk.rw\n"
+                            "• Visitez une agence BK (Lun-Ven 8h-17h, Sam 8h-12h)\n\n"
+                            "Tapez 'menu' pour revenir au menu principal."
+                        ),
+                        'Kinyarwanda': (
+                            "Sinashoboye kubona igisubizo gihuye n'ikibazo cyawe muri FAQ yacu.\n"
+                            "Ushobora guhamagara serivisi y'abakiriya ya Banki ya Kigali:\n\n"
+                            "• Telefoni: (+250) 788 143 000\n"
+                            "• Imeyili: info@bk.rw\n"
+                            "• Urubuga: https://www.bk.rw\n"
+                            "• Sura ishami rya BK iri hafi yawe (Kuwa 1-5: 8h-17h, Kuwa 6: 8h-12h)\n\n"
+                            "Andika 'menu' kugira ngo usubire ku ibiciro by'ibanze."
+                        ),
+                    }
+                    messages.append({
+                        "text": no_match.get(language, no_match['English']),
+                        "sender": "bot"
+                    })
 
         # ─── PIN RESET: IDENTITY VERIFICATION ──────────────────
         elif step == 'identity_verify':
@@ -287,8 +426,8 @@ def chat():
                         "text": (
                             f" Identity verified! Welcome {user_name}.\n\n"
                             "How would you like to receive your OTP?\n"
-                            "1️⃣ SMS\n"
-                            "2️⃣ Email"
+                            "1 SMS\n"
+                            "2 Email"
                         ),
                         "sender": "bot"
                     })
